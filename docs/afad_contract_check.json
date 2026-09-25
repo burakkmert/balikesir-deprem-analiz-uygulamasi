@@ -1,0 +1,58 @@
+{
+  "checkTimestamp": "2026-09-25T20:09:34.752169+00:00",
+  "requestUrl": "https://deprem.afad.gov.tr/apiv2/event/filter?start=2026-09-18+20%3A09%3A34&end=2026-09-25+20%3A09%3A34&minlat=39.1984&maxlat=40.0984&minlon=27.2982&maxlon=28.4670&minmag=1.5&orderby=timedesc&limit=5&offset=0",
+  "queryParamsSent": {
+    "start": "2026-09-18 20:09:34",
+    "end": "2026-09-25 20:09:34",
+    "minlat": "39.1984",
+    "maxlat": "40.0984",
+    "minlon": "27.2982",
+    "maxlon": "28.4670",
+    "minmag": "1.5",
+    "orderby": "timedesc",
+    "limit": "5",
+    "offset": "0"
+  },
+  "httpStatusCode": 200,
+  "status": "SUCCESS",
+  "rawSample": {
+    "rms": "0.5",
+    "eventID": "729217",
+    "location": "Sındırgı (Balıkesir)",
+    "latitude": "39.23433",
+    "longitude": "28.13",
+    "depth": "7",
+    "type": "ML",
+    "magnitude": "1.5",
+    "country": "Türkiye",
+    "province": "Balıkesir",
+    "district": "Sındırgı",
+    "neighborhood": "Mandıra",
+    "date": "2026-09-21T12:32:41",
+    "isEventUpdate": false,
+    "lastUpdateDate": null
+  },
+  "learnedDetails": {
+    "fieldsMapped": [
+      "rms",
+      "eventID",
+      "location",
+      "latitude",
+      "longitude",
+      "depth",
+      "type",
+      "magnitude",
+      "country",
+      "province",
+      "district",
+      "neighborhood",
+      "date",
+      "isEventUpdate",
+      "lastUpdateDate"
+    ],
+    "dateFormatObserved": "2026-09-21T12:32:41",
+    "hasExplicitTimezone": false,
+    "sampleCountReceived": 5,
+    "notes": "Live official AFAD contract verified successfully with active schema fields."
+  }
+}

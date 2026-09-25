@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "source_filename": "gem_active_faults.geojson",
+  "source_sha256": "603513086b4693de6008e3444959995c34683b30dac291856340522a76d8505e",
+  "global_feature_count": 16195,
+  "selected_feature_count": 60,
+  "bounding_box": {
+    "min_lon": 26.3,
+    "min_lat": 39.1,
+    "max_lon": 28.9,
+    "max_lat": 40.7
+  },
+  "filtering_method": "Segment-box intersection (Cohen-Sutherland)",
+  "source_repository": "https://github.com/GEMScienceTools/gem-global-active-faults",
+  "license": "CC BY-SA 4.0",
+  "scope_note": "Seçim kutusu Balıkesir bölgesel odağını kapsar; Balıkesir'in resmî idari sınırı değildir ve eksiksiz tüm fay hatlarını temsil ettiği iddia edilmez."
+}

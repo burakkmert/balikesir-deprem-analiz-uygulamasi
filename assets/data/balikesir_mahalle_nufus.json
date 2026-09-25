@@ -1,0 +1,7940 @@
+{
+  "schema_version": "1.0.0",
+  "data_year": 2025,
+  "geographic_level": "mahalle",
+  "source_filename": "nüfus-mahalle.csv",
+  "source_sha256": "eaed88277f620c6508e2c2d6735bde143555d7d30be393c9c7e06b1fa6d4db46",
+  "records": [
+    {
+      "mahalle_kodu": "10319",
+      "mahalle_ad": "1.Gündoğan Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 7268,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10320",
+      "mahalle_ad": "2.Gündoğan Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 11145,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147027",
+      "mahalle_ad": "Akarsu Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 392,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147031",
+      "mahalle_ad": "Akçaköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 406,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146937",
+      "mahalle_ad": "Aliağa Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 169,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10308",
+      "mahalle_ad": "Altı Eylül Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 2019,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147033",
+      "mahalle_ad": "Aslıhan Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 601,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147035",
+      "mahalle_ad": "Aslıhantepeciği Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 958,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146975",
+      "mahalle_ad": "Ataköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 131,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147037",
+      "mahalle_ad": "Atköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1489,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147039",
+      "mahalle_ad": "Aynaoğlu Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 282,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147041",
+      "mahalle_ad": "Ayşebacı Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1779,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146977",
+      "mahalle_ad": "Ayvacık Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 192,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147043",
+      "mahalle_ad": "Ayvatlar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 280,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146939",
+      "mahalle_ad": "Bağalan Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 85,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146941",
+      "mahalle_ad": "Bahçedere Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 231,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10311",
+      "mahalle_ad": "Bahçelievler Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 40785,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147045",
+      "mahalle_ad": "Balıklı Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1675,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146979",
+      "mahalle_ad": "Bayat Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 811,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146981",
+      "mahalle_ad": "Bereketli Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 282,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146943",
+      "mahalle_ad": "Beşpınar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 98,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147095",
+      "mahalle_ad": "Boğatepe Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 225,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146983",
+      "mahalle_ad": "Bozen Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 130,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147047",
+      "mahalle_ad": "Büyükbostancı Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 787,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146985",
+      "mahalle_ad": "Çakıllık Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 66,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146945",
+      "mahalle_ad": "Çamköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 133,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147051",
+      "mahalle_ad": "Çandır Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1142,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147053",
+      "mahalle_ad": "Çayırhisar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 5297,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146989",
+      "mahalle_ad": "Çiftçidere Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 94,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147057",
+      "mahalle_ad": "Çiftlikköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 223,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146987",
+      "mahalle_ad": "Çınarlıdere Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 56,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147049",
+      "mahalle_ad": "Cinge Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 369,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146947",
+      "mahalle_ad": "Çukurhüseyin Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 283,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146949",
+      "mahalle_ad": "Dallımandıra Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 437,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146991",
+      "mahalle_ad": "Dedeburnu Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 242,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147059",
+      "mahalle_ad": "Dereçiftlik Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 396,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146951",
+      "mahalle_ad": "Dereköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 215,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10313",
+      "mahalle_ad": "Dinkçiler Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 7782,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146993",
+      "mahalle_ad": "Dişbudak Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 169,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146953",
+      "mahalle_ad": "Ertuğrul Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 178,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10317",
+      "mahalle_ad": "Gaziosmanpaşa Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 12614,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147021",
+      "mahalle_ad": "Gökçeören Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 585,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147061",
+      "mahalle_ad": "Gökköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1416,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10318",
+      "mahalle_ad": "Gümüsçesme Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 9204,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10321",
+      "mahalle_ad": "Hacı İlbey Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1473,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147063",
+      "mahalle_ad": "Halalca Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1426,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10323",
+      "mahalle_ad": "Hasan Basri Çantay Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 12005,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147065",
+      "mahalle_ad": "İnkaya Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 149,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147067",
+      "mahalle_ad": "Kabaklı Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 722,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146995",
+      "mahalle_ad": "Karabeyler Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 120,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146955",
+      "mahalle_ad": "Karakavak Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 115,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147023",
+      "mahalle_ad": "Karakaya Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 115,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146957",
+      "mahalle_ad": "Karamanlar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 683,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147069",
+      "mahalle_ad": "Karaman Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 2213,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10327",
+      "mahalle_ad": "Kasaplar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 5361,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147029",
+      "mahalle_ad": "Kesirven Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1147,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146997",
+      "mahalle_ad": "Kılcılar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 165,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146999",
+      "mahalle_ad": "Kirazköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 151,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147001",
+      "mahalle_ad": "Kirazpınar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 89,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147003",
+      "mahalle_ad": "Konakpınar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 214,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147071",
+      "mahalle_ad": "Köseler Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 993,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147073",
+      "mahalle_ad": "Köylü Köyü Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 914,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147005",
+      "mahalle_ad": "Kozderegüvem Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 279,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146959",
+      "mahalle_ad": "Kozören Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 221,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147075",
+      "mahalle_ad": "Küçükbostancı Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 523,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146965",
+      "mahalle_ad": "Küpeler Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 182,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147025",
+      "mahalle_ad": "Kürse Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 187,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147007",
+      "mahalle_ad": "Kuşkaya Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 345,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146961",
+      "mahalle_ad": "Kutludüğün Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 123,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146963",
+      "mahalle_ad": "Kuyualan Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 134,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146967",
+      "mahalle_ad": "Macarlar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1360,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146969",
+      "mahalle_ad": "Meryemdere Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 85,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147055",
+      "mahalle_ad": "Nergiz Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 787,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147077",
+      "mahalle_ad": "Orhanlı Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 159,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147079",
+      "mahalle_ad": "Ortamandıra Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 868,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147081",
+      "mahalle_ad": "Ovabayındır Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 510,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147083",
+      "mahalle_ad": "Ovaköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1426,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146935",
+      "mahalle_ad": "Pamukçu Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 2512,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147085",
+      "mahalle_ad": "Paşaköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 875,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10336",
+      "mahalle_ad": "Plevne Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 18694,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146971",
+      "mahalle_ad": "Sarıalan Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 307,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147087",
+      "mahalle_ad": "Selimiye Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 527,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147009",
+      "mahalle_ad": "Sıvatpınar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 24,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10339",
+      "mahalle_ad": "Sütlüce Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 9175,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147011",
+      "mahalle_ad": "Taşköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 216,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147013",
+      "mahalle_ad": "Taşpınar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 139,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147015",
+      "mahalle_ad": "Tayyipler Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 146,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147089",
+      "mahalle_ad": "Türkali Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 223,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147017",
+      "mahalle_ad": "Turnalar Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 91,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147091",
+      "mahalle_ad": "Yakupköy Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 1478,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147093",
+      "mahalle_ad": "Yenice Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 389,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147019",
+      "mahalle_ad": "Yeşiller Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 119,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146973",
+      "mahalle_ad": "Yeşilyurt Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 234,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10343",
+      "mahalle_ad": "Yıldız Mah.",
+      "ilce_ad": "Altıeylül",
+      "nufus": 5341,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10370",
+      "mahalle_ad": "150 Evler Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 11252,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147117",
+      "mahalle_ad": "Akçapınar Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 1113,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10355",
+      "mahalle_ad": "Ali Çetinkaya Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 9701,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147099",
+      "mahalle_ad": "Altınova Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 16897,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147101",
+      "mahalle_ad": "Bağyüzü Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 601,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147119",
+      "mahalle_ad": "Beşiktepe Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 272,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147121",
+      "mahalle_ad": "Bulutçeşme Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 230,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147123",
+      "mahalle_ad": "Çakmak Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 753,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147103",
+      "mahalle_ad": "Çamoba Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 849,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10356",
+      "mahalle_ad": "Fethiye Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 1075,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10357",
+      "mahalle_ad": "Fevzipaşa-Vehbibey Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 437,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10362",
+      "mahalle_ad": "Gazi Kemal Paşa Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 850,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147105",
+      "mahalle_ad": "Hacıveliler Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 135,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10358",
+      "mahalle_ad": "Hamdibey Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 1180,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10359",
+      "mahalle_ad": "Hayrettinpaşa Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 859,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10360",
+      "mahalle_ad": "İsmetpaşa Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 320,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147125",
+      "mahalle_ad": "Karaayıt Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 380,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10361",
+      "mahalle_ad": "Kazım Karabekir Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 912,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147127",
+      "mahalle_ad": "Kırcalar Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 372,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147097",
+      "mahalle_ad": "Küçükköy Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 11981,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10363",
+      "mahalle_ad": "Mithatpaşa Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 2113,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147107",
+      "mahalle_ad": "Murateli Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 114,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147109",
+      "mahalle_ad": "Mutlu Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 214,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10364",
+      "mahalle_ad": "Namık Kemal Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 1344,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147129",
+      "mahalle_ad": "Odaburnu Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 215,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10371",
+      "mahalle_ad": "Sahil Kent Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 1724,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10365",
+      "mahalle_ad": "Sakarya Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 982,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10366",
+      "mahalle_ad": "Sefa Çamlık Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 2858,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147111",
+      "mahalle_ad": "Tıfıllar Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 195,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147113",
+      "mahalle_ad": "Türközü Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 196,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147131",
+      "mahalle_ad": "Üçkabaağaç Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 561,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147115",
+      "mahalle_ad": "Yeniköy Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 395,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10368",
+      "mahalle_ad": "Yeni Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 4251,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10369",
+      "mahalle_ad": "Zekibey Mah.",
+      "ilce_ad": "Ayvalık",
+      "nufus": 484,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147135",
+      "mahalle_ad": "Akbaş Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 179,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147137",
+      "mahalle_ad": "Alidemirci Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 254,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147139",
+      "mahalle_ad": "Bengiler Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 331,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147141",
+      "mahalle_ad": "Çakallar Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 301,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147143",
+      "mahalle_ad": "Çalova Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 205,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147145",
+      "mahalle_ad": "Çamavşar Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 559,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147147",
+      "mahalle_ad": "Çamucu Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 381,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147157",
+      "mahalle_ad": "Çarmık Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 380,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147149",
+      "mahalle_ad": "Çiğdem Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 76,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147151",
+      "mahalle_ad": "Çukurcak Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 91,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147191",
+      "mahalle_ad": "Danişment Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 460,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147193",
+      "mahalle_ad": "Değirmendere Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 192,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147153",
+      "mahalle_ad": "Dereköy Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 534,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147155",
+      "mahalle_ad": "Doğanlar Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 354,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10382",
+      "mahalle_ad": "Enverpaşa Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 798,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147159",
+      "mahalle_ad": "Farsak Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 93,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147207",
+      "mahalle_ad": "Gökmusa Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 106,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147161",
+      "mahalle_ad": "Göktepe Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 102,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147195",
+      "mahalle_ad": "Göloba Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 139,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147163",
+      "mahalle_ad": "Habipler Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 218,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147165",
+      "mahalle_ad": "Hacıhüseyin Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 499,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147167",
+      "mahalle_ad": "Havutbaşı Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 156,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147133",
+      "mahalle_ad": "Ilıca Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 539,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147169",
+      "mahalle_ad": "Kadıköy Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 155,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147209",
+      "mahalle_ad": "Karacahisar Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 159,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147211",
+      "mahalle_ad": "Karlık Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 58,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147171",
+      "mahalle_ad": "Kaşıkçı Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 74,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147173",
+      "mahalle_ad": "Kavakalanı Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 149,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147213",
+      "mahalle_ad": "Kayalar Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 429,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147197",
+      "mahalle_ad": "Kayapınar Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 152,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147175",
+      "mahalle_ad": "Kocabük Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 222,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10383",
+      "mahalle_ad": "Koca Camii Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 1013,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147199",
+      "mahalle_ad": "Koyuneri Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 345,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147201",
+      "mahalle_ad": "Mancılık Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 317,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147177",
+      "mahalle_ad": "Medrese Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 88,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147179",
+      "mahalle_ad": "Müstecap Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 193,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147181",
+      "mahalle_ad": "Narlı Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 298,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147205",
+      "mahalle_ad": "Örenköy Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 172,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147203",
+      "mahalle_ad": "Orhanlar Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 304,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147183",
+      "mahalle_ad": "Patlak Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 80,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147185",
+      "mahalle_ad": "Semizköy Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 108,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147215",
+      "mahalle_ad": "Söbücealan Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 90,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147217",
+      "mahalle_ad": "Yarışalanı Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 140,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147187",
+      "mahalle_ad": "Yaylacık Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 231,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147189",
+      "mahalle_ad": "Yazlık Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 83,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147219",
+      "mahalle_ad": "Yenikavak Mah.",
+      "ilce_ad": "Balya",
+      "nufus": 489,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10400",
+      "mahalle_ad": "100.Yıl Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 15340,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10401",
+      "mahalle_ad": "17 Eylül Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 15476,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10402",
+      "mahalle_ad": "600 Evler Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 10457,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147225",
+      "mahalle_ad": "Akçapınar Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 368,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147221",
+      "mahalle_ad": "Aksakal Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 858,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10386",
+      "mahalle_ad": "Ayyıldız Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 2573,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10387",
+      "mahalle_ad": "Bentbaşı Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 2649,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147227",
+      "mahalle_ad": "Bereketli Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 483,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147265",
+      "mahalle_ad": "Beyköy Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 116,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147267",
+      "mahalle_ad": "Bezirci Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 214,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147229",
+      "mahalle_ad": "Çakılköy Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 317,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10405",
+      "mahalle_ad": "Çalışkanlar Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 382,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147271",
+      "mahalle_ad": "Çarıkköy Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 130,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147273",
+      "mahalle_ad": "Çepni Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 184,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10388",
+      "mahalle_ad": "Çınarlı Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 7395,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147269",
+      "mahalle_ad": "Çinge Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 60,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147231",
+      "mahalle_ad": "Dedeoba Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 387,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10389",
+      "mahalle_ad": "Dere Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 1306,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147255",
+      "mahalle_ad": "Doğa Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 538,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147275",
+      "mahalle_ad": "Doğanpınar Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 285,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147233",
+      "mahalle_ad": "Doğruca Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 641,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147235",
+      "mahalle_ad": "Dutliman Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 205,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147223",
+      "mahalle_ad": "Edincik Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 4048,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147237",
+      "mahalle_ad": "Emre Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 216,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147257",
+      "mahalle_ad": "Ergili Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 305,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147239",
+      "mahalle_ad": "Erikli Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 468,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147241",
+      "mahalle_ad": "Eskiziraatli Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 208,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147277",
+      "mahalle_ad": "Gölyaka Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 232,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10390",
+      "mahalle_ad": "Günaydın Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 1837,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10391",
+      "mahalle_ad": "Hacı Yusuf Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 9114,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10392",
+      "mahalle_ad": "Haydar Çavuş Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 1236,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147279",
+      "mahalle_ad": "Hıdırköy Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 112,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10393",
+      "mahalle_ad": "İhsaniye Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 14565,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "624262",
+      "mahalle_ad": "Karaçalılık Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 105,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10394",
+      "mahalle_ad": "Kayacık Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 4285,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147259",
+      "mahalle_ad": "Kirazlı Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 146,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147281",
+      "mahalle_ad": "Külefli Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 334,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147261",
+      "mahalle_ad": "Kuşcenneti Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 471,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10395",
+      "mahalle_ad": "Levent Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 4957,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147243",
+      "mahalle_ad": "Mahbubeler Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 136,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147283",
+      "mahalle_ad": "Misakça Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 384,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147245",
+      "mahalle_ad": "Ömerli Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 4855,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147285",
+      "mahalle_ad": "Orhaniye Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 212,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10396",
+      "mahalle_ad": "Paşabayır Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 14311,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10404",
+      "mahalle_ad": "Paşakent Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 10753,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10403",
+      "mahalle_ad": "Paşakonak Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 10365,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10397",
+      "mahalle_ad": "Paşamescit Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 2193,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147247",
+      "mahalle_ad": "Sahil Yenice Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 712,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147287",
+      "mahalle_ad": "Şirinçavuş Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 150,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10398",
+      "mahalle_ad": "Sunullah Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 13685,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10399",
+      "mahalle_ad": "Yeni Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 7352,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147249",
+      "mahalle_ad": "Yenisığırcı Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 208,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147251",
+      "mahalle_ad": "Yeniyenice Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 566,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147253",
+      "mahalle_ad": "Yeniziraatli Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 163,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147263",
+      "mahalle_ad": "Yeşilçomlu Mah.",
+      "ilce_ad": "Bandırma",
+      "nufus": 428,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10423",
+      "mahalle_ad": "4 Eylül Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 1691,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10415",
+      "mahalle_ad": "Abacı Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 1403,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147291",
+      "mahalle_ad": "Adalı Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 464,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147365",
+      "mahalle_ad": "Akyar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 1092,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147383",
+      "mahalle_ad": "Alanköy Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 74,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147385",
+      "mahalle_ad": "Altınlar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 244,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147387",
+      "mahalle_ad": "Aşağıçamlı Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 84,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147389",
+      "mahalle_ad": "Aşağıgöcek Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 96,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147293",
+      "mahalle_ad": "Babaköy Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 605,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147295",
+      "mahalle_ad": "Bademli Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 396,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147297",
+      "mahalle_ad": "Balatlı Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 496,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147367",
+      "mahalle_ad": "Başçeşme Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 273,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147299",
+      "mahalle_ad": "Beğendikler Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 398,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147301",
+      "mahalle_ad": "Bekirler Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 330,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147391",
+      "mahalle_ad": "Bozbük Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 143,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147363",
+      "mahalle_ad": "Çağış Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 4978,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10416",
+      "mahalle_ad": "Camii Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 288,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147305",
+      "mahalle_ad": "Çamköy Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 311,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10417",
+      "mahalle_ad": "Çavuş Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 2644,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147307",
+      "mahalle_ad": "Çayüstü Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 412,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147309",
+      "mahalle_ad": "Çekirdekli Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 678,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147311",
+      "mahalle_ad": "Çeribaşı Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 460,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147393",
+      "mahalle_ad": "Çıtak Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 52,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147369",
+      "mahalle_ad": "Çömlekçi Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 530,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147395",
+      "mahalle_ad": "Davutça Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 127,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147313",
+      "mahalle_ad": "Davutlar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 302,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147315",
+      "mahalle_ad": "Dedeçınar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 262,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147371",
+      "mahalle_ad": "Değirmenli Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 396,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147303",
+      "mahalle_ad": "Dere Çerkes Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 91,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147317",
+      "mahalle_ad": "Dikkonak Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 122,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147319",
+      "mahalle_ad": "Doğançam Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 170,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147397",
+      "mahalle_ad": "Dündarcık Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 97,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147321",
+      "mahalle_ad": "Durasılar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 350,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147323",
+      "mahalle_ad": "Elyapan Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 582,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10418",
+      "mahalle_ad": "Emek Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 3246,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147325",
+      "mahalle_ad": "Emirler Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 477,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147373",
+      "mahalle_ad": "Esenli Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 460,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10419",
+      "mahalle_ad": "Fethibey Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 3344,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147375",
+      "mahalle_ad": "Güvemçetmi Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 877,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147399",
+      "mahalle_ad": "Hacıömerderesi Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 168,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147327",
+      "mahalle_ad": "Hamidiye Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 661,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147329",
+      "mahalle_ad": "Hisarköy Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 133,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147401",
+      "mahalle_ad": "İğciler Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 62,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147333",
+      "mahalle_ad": "İlyaslar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 683,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147331",
+      "mahalle_ad": "Işıklar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 2173,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147289",
+      "mahalle_ad": "İskeleköy Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 1386,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147335",
+      "mahalle_ad": "Kadıköy Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 329,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147403",
+      "mahalle_ad": "Kalafat Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 158,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147405",
+      "mahalle_ad": "Karabahçe Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 44,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147337",
+      "mahalle_ad": "Kargın Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 666,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147339",
+      "mahalle_ad": "Kayalıdere Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 238,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147341",
+      "mahalle_ad": "Kayırlar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 701,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147407",
+      "mahalle_ad": "Kırca Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 191,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147409",
+      "mahalle_ad": "Kızılçukur Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 288,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147411",
+      "mahalle_ad": "Köseler Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 23,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147343",
+      "mahalle_ad": "Kozpınar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 944,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147377",
+      "mahalle_ad": "Küçükyeniköy Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 204,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147413",
+      "mahalle_ad": "Kürsü Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 48,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10420",
+      "mahalle_ad": "Kuyu Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 2710,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147345",
+      "mahalle_ad": "Mecidiye Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 737,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147415",
+      "mahalle_ad": "Meyvalı Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 348,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147347",
+      "mahalle_ad": "Okçular Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 190,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147417",
+      "mahalle_ad": "Okçularyeri Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 116,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10421",
+      "mahalle_ad": "Orta Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 747,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "197929",
+      "mahalle_ad": "Osmanca Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 328,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147349",
+      "mahalle_ad": "Özgören Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 229,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147419",
+      "mahalle_ad": "Panayır Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 69,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147351",
+      "mahalle_ad": "Salmanlı Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 428,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10422",
+      "mahalle_ad": "Servi Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 2921,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147421",
+      "mahalle_ad": "Topalak Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 184,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147423",
+      "mahalle_ad": "Tozağan Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 52,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147353",
+      "mahalle_ad": "Turfullar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 417,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147355",
+      "mahalle_ad": "Yağcıbedir Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 185,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147381",
+      "mahalle_ad": "Yağcılar Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 108,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147357",
+      "mahalle_ad": "Yeniköy Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 376,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147379",
+      "mahalle_ad": "Yeşildere Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 431,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147359",
+      "mahalle_ad": "Yolbaşı Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 161,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147425",
+      "mahalle_ad": "Yukarıçamlı Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 32,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147427",
+      "mahalle_ad": "Yukarıgöçek Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 183,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147361",
+      "mahalle_ad": "Yürücekler Mah.",
+      "ilce_ad": "Bigadiç",
+      "nufus": 178,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147431",
+      "mahalle_ad": "Ağacık Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 184,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "782151",
+      "mahalle_ad": "Ali Çetinkaya Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 1861,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147433",
+      "mahalle_ad": "Avunduk Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 45,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147435",
+      "mahalle_ad": "Bahadınlı Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 590,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10429",
+      "mahalle_ad": "Bahçelievler Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 11234,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147437",
+      "mahalle_ad": "Börezli Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 2894,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147439",
+      "mahalle_ad": "Çallı Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 17,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147441",
+      "mahalle_ad": "Çamtepe Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 83,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147443",
+      "mahalle_ad": "Çoruk Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 355,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10430",
+      "mahalle_ad": "Cumhuriyet Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 7037,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147445",
+      "mahalle_ad": "Damlalı Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 125,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147447",
+      "mahalle_ad": "Dutluca Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 282,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10431",
+      "mahalle_ad": "Geriş Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 2451,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10432",
+      "mahalle_ad": "Hacıahmet Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 4225,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147449",
+      "mahalle_ad": "Hacıbozlar Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 178,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147451",
+      "mahalle_ad": "Hisarköy Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 202,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10440",
+      "mahalle_ad": "Hürriyet Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 1140,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10433",
+      "mahalle_ad": "İskele Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 2864,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147453",
+      "mahalle_ad": "Karadere Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 570,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147455",
+      "mahalle_ad": "Kırtık Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 214,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147457",
+      "mahalle_ad": "Kızıklı Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 1685,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10434",
+      "mahalle_ad": "Kocacami Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 5925,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147459",
+      "mahalle_ad": "Kurucaoluk Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 272,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147461",
+      "mahalle_ad": "Kuyucak Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 35,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147463",
+      "mahalle_ad": "Kuyumcu Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 408,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10435",
+      "mahalle_ad": "Mahkeme Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 5374,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10436",
+      "mahalle_ad": "Memiş Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 3440,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10437",
+      "mahalle_ad": "Öğretmenler Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 4989,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10438",
+      "mahalle_ad": "Ören Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 3695,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147429",
+      "mahalle_ad": "Pelitköy Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 2771,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147467",
+      "mahalle_ad": "Şahinler Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 265,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147469",
+      "mahalle_ad": "Şarköy Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 512,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147465",
+      "mahalle_ad": "Sübeylidere Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 212,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147471",
+      "mahalle_ad": "Tahtacı Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 135,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147473",
+      "mahalle_ad": "Taylıeli Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 268,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147475",
+      "mahalle_ad": "Yabancılar Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 120,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147477",
+      "mahalle_ad": "Yaylacık Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 321,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147479",
+      "mahalle_ad": "Yunuslar Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 141,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10439",
+      "mahalle_ad": "Yunus Mah.",
+      "ilce_ad": "Burhaniye",
+      "nufus": 1251,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147481",
+      "mahalle_ad": "Adaören Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 277,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147483",
+      "mahalle_ad": "Akbaşlar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 408,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147667",
+      "mahalle_ad": "Akçagüney Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 123,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147485",
+      "mahalle_ad": "Akyayla Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 146,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147487",
+      "mahalle_ad": "Alaçam Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 119,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147595",
+      "mahalle_ad": "Alagüney Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 42,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147489",
+      "mahalle_ad": "Arıklar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 115,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147491",
+      "mahalle_ad": "Aşağımusalar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 235,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147493",
+      "mahalle_ad": "Aşağıyağcılar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 144,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147607",
+      "mahalle_ad": "Ayvacık Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 146,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147495",
+      "mahalle_ad": "Aziziye Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 146,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147497",
+      "mahalle_ad": "Bayıryüzügüney Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 201,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147637",
+      "mahalle_ad": "Beyce Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 92,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147499",
+      "mahalle_ad": "Beyel Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 251,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147501",
+      "mahalle_ad": "Boyalıca Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 85,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10444",
+      "mahalle_ad": "Bozyokuş Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 2371,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147503",
+      "mahalle_ad": "Büyükakçaalan Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 374,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147639",
+      "mahalle_ad": "Çakırca Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 193,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10446",
+      "mahalle_ad": "Çakmak Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 1070,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147597",
+      "mahalle_ad": "Çaltıcak Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 40,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147599",
+      "mahalle_ad": "Çamharman Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 90,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147505",
+      "mahalle_ad": "Çamköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 159,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147507",
+      "mahalle_ad": "Çanakçı Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 326,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147509",
+      "mahalle_ad": "Çatalçam Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 167,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10445",
+      "mahalle_ad": "Cebeci Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 1368,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147511",
+      "mahalle_ad": "Çelikler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 46,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10447",
+      "mahalle_ad": "Çiftçi Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 814,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147513",
+      "mahalle_ad": "Çınarköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 215,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147669",
+      "mahalle_ad": "Dada Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 139,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147515",
+      "mahalle_ad": "Değirmenciler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 69,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147517",
+      "mahalle_ad": "Delice Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 710,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147601",
+      "mahalle_ad": "Demirciler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 119,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147603",
+      "mahalle_ad": "Dereköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 64,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147533",
+      "mahalle_ad": "Dodurga Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 332,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147605",
+      "mahalle_ad": "Doğancılar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 56,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147519",
+      "mahalle_ad": "Durabeyler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 787,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147641",
+      "mahalle_ad": "Ericek Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 62,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10448",
+      "mahalle_ad": "Ferah Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 3887,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147521",
+      "mahalle_ad": "Gazellidere Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 53,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147523",
+      "mahalle_ad": "Göbül Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 642,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147593",
+      "mahalle_ad": "Gökçedağ Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 142,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147525",
+      "mahalle_ad": "Gökçepınar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 52,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147643",
+      "mahalle_ad": "Gölcük Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 79,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147527",
+      "mahalle_ad": "Güğü Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 384,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147671",
+      "mahalle_ad": "Gürleyen Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 34,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147529",
+      "mahalle_ad": "Hacıahmetpınarı Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 82,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147531",
+      "mahalle_ad": "Hacılar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 153,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147645",
+      "mahalle_ad": "Hamzacık Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 368,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147535",
+      "mahalle_ad": "Hasanlar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 43,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147609",
+      "mahalle_ad": "Hindikler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 41,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147537",
+      "mahalle_ad": "Hondular Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 193,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147611",
+      "mahalle_ad": "Hopanlar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 25,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147541",
+      "mahalle_ad": "İrfaniye Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 72,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147539",
+      "mahalle_ad": "Işıklar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 105,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147543",
+      "mahalle_ad": "İsmailler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 159,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10449",
+      "mahalle_ad": "İstasyon Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 356,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147613",
+      "mahalle_ad": "Karagöz Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 124,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147647",
+      "mahalle_ad": "Karakaya Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 46,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147545",
+      "mahalle_ad": "Karamanlar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 179,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147547",
+      "mahalle_ad": "Karapınar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 66,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147615",
+      "mahalle_ad": "Kardeşler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 124,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147635",
+      "mahalle_ad": "Kavacık Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 452,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147551",
+      "mahalle_ad": "Kavakköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 85,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147617",
+      "mahalle_ad": "Kazimiye Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 62,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147665",
+      "mahalle_ad": "Kireç Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 64,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147553",
+      "mahalle_ad": "Kızılcadere Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 140,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147555",
+      "mahalle_ad": "Kızılöz Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 104,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147621",
+      "mahalle_ad": "Küçükakçaalan Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 112,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147675",
+      "mahalle_ad": "Küçükler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 86,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147673",
+      "mahalle_ad": "Kumlu Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 75,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147557",
+      "mahalle_ad": "Kurtlar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 137,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147619",
+      "mahalle_ad": "Kuzköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 46,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147649",
+      "mahalle_ad": "Mahmudiye Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 45,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147623",
+      "mahalle_ad": "Mahmutça Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 58,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147651",
+      "mahalle_ad": "Meydançayırı Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 34,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147653",
+      "mahalle_ad": "Mıcırlar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 299,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10450",
+      "mahalle_ad": "Mollaoğlu Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 1268,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147677",
+      "mahalle_ad": "Naipler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 17,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147655",
+      "mahalle_ad": "Odaköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 199,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147625",
+      "mahalle_ad": "Örenköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 45,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147559",
+      "mahalle_ad": "Osmaniye Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 145,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147627",
+      "mahalle_ad": "Poyracık Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 61,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147561",
+      "mahalle_ad": "Ramazanlar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 121,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147565",
+      "mahalle_ad": "Reşadiye Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 69,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147563",
+      "mahalle_ad": "Resüller Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 89,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147659",
+      "mahalle_ad": "Şabanlar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 417,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147567",
+      "mahalle_ad": "Saçayak Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 129,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147569",
+      "mahalle_ad": "Sağırlar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 502,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147571",
+      "mahalle_ad": "Sakızköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 108,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147629",
+      "mahalle_ad": "Sarısipahiler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 71,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147679",
+      "mahalle_ad": "Sarnıçköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 211,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147681",
+      "mahalle_ad": "Sebiller Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 54,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147573",
+      "mahalle_ad": "Selimağa Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 757,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147577",
+      "mahalle_ad": "Şenköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 178,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147575",
+      "mahalle_ad": "Sinderler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 115,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147657",
+      "mahalle_ad": "Süleler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 296,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147579",
+      "mahalle_ad": "Tafak Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 228,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147581",
+      "mahalle_ad": "Taşkesiği Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 237,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147683",
+      "mahalle_ad": "Taşpınar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 147,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147583",
+      "mahalle_ad": "Tepeköy Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 240,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147631",
+      "mahalle_ad": "Tezlik Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 73,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147585",
+      "mahalle_ad": "Turnacık Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 178,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10451",
+      "mahalle_ad": "Üçeylül Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 3437,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147661",
+      "mahalle_ad": "Umurlar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 118,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10452",
+      "mahalle_ad": "Vakıf Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 786,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147663",
+      "mahalle_ad": "Veliler Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 139,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147587",
+      "mahalle_ad": "Yassıören Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 143,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147589",
+      "mahalle_ad": "Yukarımusalar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 160,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147591",
+      "mahalle_ad": "Yukarıyağcılar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 57,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147633",
+      "mahalle_ad": "Yunuslar Mah.",
+      "ilce_ad": "Dursunbey",
+      "nufus": 64,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147691",
+      "mahalle_ad": "Akçay Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 5727,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "182058",
+      "mahalle_ad": "Altınkum Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 13964,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147693",
+      "mahalle_ad": "Altınoluk Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 7148,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147723",
+      "mahalle_ad": "Arıtaşı Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 191,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "131436",
+      "mahalle_ad": "Atatürk Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 2736,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147725",
+      "mahalle_ad": "Avcılar Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 3195,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147695",
+      "mahalle_ad": "Beyoba Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 129,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147697",
+      "mahalle_ad": "Bostancı Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 964,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147699",
+      "mahalle_ad": "Çamcı Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 558,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10453",
+      "mahalle_ad": "Camivasat Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 4650,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147701",
+      "mahalle_ad": "Çamlıbel Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 1889,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10454",
+      "mahalle_ad": "Cennetayağı Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 15352,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147703",
+      "mahalle_ad": "Çıkrıkçı Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 390,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10455",
+      "mahalle_ad": "Cumhuriyet Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 9689,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10456",
+      "mahalle_ad": "Darsofa Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 4007,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147705",
+      "mahalle_ad": "Dereli Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 319,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147727",
+      "mahalle_ad": "Doyran Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 291,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "182056",
+      "mahalle_ad": "Eroğlan Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 6477,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10457",
+      "mahalle_ad": "Gazicelal Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 6102,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10458",
+      "mahalle_ad": "Gaziilyas Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 1997,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "182062",
+      "mahalle_ad": "Güre Cumhuriyet Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 1799,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147685",
+      "mahalle_ad": "Güre Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 2913,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147707",
+      "mahalle_ad": "Hacıarslanlar Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 317,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10459",
+      "mahalle_ad": "Hacıtuğrul Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 141,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10460",
+      "mahalle_ad": "Hamidiye Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 8567,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10461",
+      "mahalle_ad": "Hekimzade Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 1679,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10462",
+      "mahalle_ad": "İbrahimce Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 3050,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "182060",
+      "mahalle_ad": "İkizçay Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 12109,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "182048",
+      "mahalle_ad": "İskele Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 4020,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147687",
+      "mahalle_ad": "Kadıköy Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 8849,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10463",
+      "mahalle_ad": "Kapıcıbaşı Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 613,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147729",
+      "mahalle_ad": "Kavlaklar Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 194,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147709",
+      "mahalle_ad": "Kızılkeçili Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 1364,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147711",
+      "mahalle_ad": "Mehmetalan Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 385,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147731",
+      "mahalle_ad": "Narlı Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 1738,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147713",
+      "mahalle_ad": "Ortaoba Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 1726,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147715",
+      "mahalle_ad": "Pınarbaşı Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 142,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "182054",
+      "mahalle_ad": "Şahindere Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 8910,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "182046",
+      "mahalle_ad": "Sarıkız Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 8924,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10464",
+      "mahalle_ad": "Soğanyemez Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 2227,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147733",
+      "mahalle_ad": "Tahtakuşlar Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 1302,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10465",
+      "mahalle_ad": "Turhanbey Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 1084,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10466",
+      "mahalle_ad": "Tuzcumurat Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 12756,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147717",
+      "mahalle_ad": "Yaşyer Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 466,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147719",
+      "mahalle_ad": "Yaylaönü Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 285,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147721",
+      "mahalle_ad": "Yolören Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 1184,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147689",
+      "mahalle_ad": "Zeytinli Mah.",
+      "ilce_ad": "Edremit",
+      "nufus": 3732,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10485",
+      "mahalle_ad": "Alaettin Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 2812,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147739",
+      "mahalle_ad": "Aşağıyapıcı Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 206,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10486",
+      "mahalle_ad": "Atatürk Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 4059,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147741",
+      "mahalle_ad": "Balıklı Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 201,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147743",
+      "mahalle_ad": "Ballıpınar Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 369,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147745",
+      "mahalle_ad": "Belkıs Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 239,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147747",
+      "mahalle_ad": "Çakıl Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 1588,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147751",
+      "mahalle_ad": "Çeltikçi Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 248,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147753",
+      "mahalle_ad": "Doğanlar Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 277,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10487",
+      "mahalle_ad": "Halitpaşa Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 2092,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147755",
+      "mahalle_ad": "Hamamlı Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 271,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147757",
+      "mahalle_ad": "Harmanlı Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 312,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147759",
+      "mahalle_ad": "İlhan Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 319,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147735",
+      "mahalle_ad": "Karşıyaka Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 2126,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147761",
+      "mahalle_ad": "Kestanelik Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 296,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147763",
+      "mahalle_ad": "Narlı Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 691,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147737",
+      "mahalle_ad": "Ocaklar Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 1560,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147765",
+      "mahalle_ad": "Ormanlı Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 163,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147767",
+      "mahalle_ad": "Paşalimanı Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 190,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147769",
+      "mahalle_ad": "Poyrazlı Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 248,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "99008",
+      "mahalle_ad": "Sahil Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 1076,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147749",
+      "mahalle_ad": "Şahinburgaz Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 426,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147771",
+      "mahalle_ad": "Tatlısu Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 805,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147773",
+      "mahalle_ad": "Turan Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 447,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147775",
+      "mahalle_ad": "Tuzla Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 127,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10488",
+      "mahalle_ad": "Yalı Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 7619,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147777",
+      "mahalle_ad": "Yukarıyapıcı Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 915,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "99009",
+      "mahalle_ad": "Zeytinli Mah.",
+      "ilce_ad": "Erdek",
+      "nufus": 2398,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147781",
+      "mahalle_ad": "Dursunlu Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 162,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147783",
+      "mahalle_ad": "Hacıhüseyinler Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 1088,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147785",
+      "mahalle_ad": "Hacıoğlu Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 351,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147787",
+      "mahalle_ad": "Hacıosman Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 475,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147779",
+      "mahalle_ad": "Karaağaç Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 2740,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10491",
+      "mahalle_ad": "Kemalpaşa Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 4071,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147789",
+      "mahalle_ad": "Keremköy Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 348,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147791",
+      "mahalle_ad": "Kobaşlar Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 150,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147793",
+      "mahalle_ad": "Kumgedik Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 144,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147795",
+      "mahalle_ad": "Kuyualan Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 224,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10492",
+      "mahalle_ad": "Mithatpaşa Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 3365,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147797",
+      "mahalle_ad": "Ulubeyler Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 1371,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10493",
+      "mahalle_ad": "Yaya Mah.",
+      "ilce_ad": "Gömeç",
+      "nufus": 4531,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10506",
+      "mahalle_ad": "100.Yıl Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 4442,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10495",
+      "mahalle_ad": "Akçaali Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 1144,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147801",
+      "mahalle_ad": "Akçapınar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 114,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147803",
+      "mahalle_ad": "Alacaoluk Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 62,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147805",
+      "mahalle_ad": "Alaettin Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 230,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147953",
+      "mahalle_ad": "Alaşar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 129,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10496",
+      "mahalle_ad": "Altay Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 1700,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147915",
+      "mahalle_ad": "Armutlu Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 99,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147807",
+      "mahalle_ad": "Asmalıdere Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 407,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147809",
+      "mahalle_ad": "Atıcıoba Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 155,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147917",
+      "mahalle_ad": "Ayvalıdere Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 55,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147811",
+      "mahalle_ad": "Babayaka Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 143,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147813",
+      "mahalle_ad": "Bakırlı Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 223,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147815",
+      "mahalle_ad": "Balcıdede Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 91,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147817",
+      "mahalle_ad": "Balcı Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 201,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147819",
+      "mahalle_ad": "Bayramiç Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 198,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147821",
+      "mahalle_ad": "Beyoluk Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 62,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147823",
+      "mahalle_ad": "Bostancı Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 458,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147901",
+      "mahalle_ad": "Buğdaylı Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 1139,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147903",
+      "mahalle_ad": "Büyüksoğuklar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 215,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147955",
+      "mahalle_ad": "Çakmak Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 219,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147957",
+      "mahalle_ad": "Çalıca Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 86,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147827",
+      "mahalle_ad": "Çalıoba Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 136,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147825",
+      "mahalle_ad": "Canbaz Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 105,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147829",
+      "mahalle_ad": "Çatak Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 64,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147921",
+      "mahalle_ad": "Çifteçeşmeler Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 306,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147961",
+      "mahalle_ad": "Çiftlikalan Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 40,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147919",
+      "mahalle_ad": "Çığmış Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 55,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147959",
+      "mahalle_ad": "Çınarlı Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 148,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147831",
+      "mahalle_ad": "Çınarpınar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 47,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147963",
+      "mahalle_ad": "Çobanhamidiye Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 248,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147923",
+      "mahalle_ad": "Dereköy Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 160,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147925",
+      "mahalle_ad": "Dışbudak Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 139,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147833",
+      "mahalle_ad": "Dumanalan Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 27,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147835",
+      "mahalle_ad": "Ekşidere Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 192,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147837",
+      "mahalle_ad": "Fındıklı Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 337,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147839",
+      "mahalle_ad": "Gaybular Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 217,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147927",
+      "mahalle_ad": "Gebeçınar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 296,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147929",
+      "mahalle_ad": "Gelgeç Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 140,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147931",
+      "mahalle_ad": "Geyikli Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 160,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147841",
+      "mahalle_ad": "Gökçesu Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 104,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147933",
+      "mahalle_ad": "Gündoğan Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 1285,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10498",
+      "mahalle_ad": "Gündoğdu Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 5144,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147843",
+      "mahalle_ad": "Güneşli Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 137,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147845",
+      "mahalle_ad": "Hacımenteş Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 36,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147847",
+      "mahalle_ad": "Hacıvelioba Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 250,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147935",
+      "mahalle_ad": "Hafızhüseyinbey Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 661,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147849",
+      "mahalle_ad": "Hasanbey Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 1416,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147937",
+      "mahalle_ad": "Havutça Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 191,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147939",
+      "mahalle_ad": "Hodul Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 146,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147905",
+      "mahalle_ad": "Ilıcak Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 371,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147851",
+      "mahalle_ad": "Ilıcaoba Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 51,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147853",
+      "mahalle_ad": "İncirli Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 26,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147965",
+      "mahalle_ad": "Kalburcu Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 141,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147855",
+      "mahalle_ad": "Kalfaköy Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 185,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147967",
+      "mahalle_ad": "Kaplanoba Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 75,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147857",
+      "mahalle_ad": "Karaağaçalan Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 58,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147859",
+      "mahalle_ad": "Karalarçiftliği Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 393,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147861",
+      "mahalle_ad": "Karasukabaklar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 151,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10499",
+      "mahalle_ad": "Karşıyaka Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 6317,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147941",
+      "mahalle_ad": "Kavakalan Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 85,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147969",
+      "mahalle_ad": "Kavakoba Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 106,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147863",
+      "mahalle_ad": "Keçeler Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 230,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147907",
+      "mahalle_ad": "Killik Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 101,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147943",
+      "mahalle_ad": "Kınalar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 236,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147865",
+      "mahalle_ad": "Kocapınar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 418,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147971",
+      "mahalle_ad": "Koçbayır Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 52,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147869",
+      "mahalle_ad": "Körpeağaç Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 144,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147867",
+      "mahalle_ad": "Korudeğirmen Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 135,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147871",
+      "mahalle_ad": "Köteyli Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 139,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147909",
+      "mahalle_ad": "Küçüksoğuklar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 78,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147873",
+      "mahalle_ad": "Kumköy Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 242,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147973",
+      "mahalle_ad": "Küpçıktı Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 103,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10500",
+      "mahalle_ad": "Kurtuluş Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 16117,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10501",
+      "mahalle_ad": "Malkoç Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 4089,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147875",
+      "mahalle_ad": "Muratlar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 211,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147975",
+      "mahalle_ad": "Ömerler Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 107,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147877",
+      "mahalle_ad": "Ortaoba Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 103,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147879",
+      "mahalle_ad": "Osmanpazar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 279,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147911",
+      "mahalle_ad": "Paşaçiftlik Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 522,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147881",
+      "mahalle_ad": "Pehlivanhoca Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 41,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10502",
+      "mahalle_ad": "Plevne Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 3208,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10503",
+      "mahalle_ad": "Reşadiye Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 4142,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10504",
+      "mahalle_ad": "Rüstem Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 3125,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147883",
+      "mahalle_ad": "Saraçlar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 183,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147799",
+      "mahalle_ad": "Sarıköy Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 3873,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147889",
+      "mahalle_ad": "Şaroluk Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 237,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147885",
+      "mahalle_ad": "Sebepli Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 323,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147887",
+      "mahalle_ad": "Söğüt Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 119,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147977",
+      "mahalle_ad": "Suçıktı Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 92,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147945",
+      "mahalle_ad": "Tahtalı Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 18,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147891",
+      "mahalle_ad": "Taştepe Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 53,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10505",
+      "mahalle_ad": "Tırnova Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 2991,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147947",
+      "mahalle_ad": "Turplu Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 180,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147951",
+      "mahalle_ad": "Tütüncü Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 276,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147893",
+      "mahalle_ad": "Tuzakçı Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 950,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147895",
+      "mahalle_ad": "Üçpınar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 102,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147949",
+      "mahalle_ad": "Ulukır Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 376,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147913",
+      "mahalle_ad": "Üzümlü Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 202,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147897",
+      "mahalle_ad": "Yeniakçapınar Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 152,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147899",
+      "mahalle_ad": "Yürükkeçidere Mah.",
+      "ilce_ad": "Gönen",
+      "nufus": 63,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147979",
+      "mahalle_ad": "Büyükdere Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 1524,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147981",
+      "mahalle_ad": "Büyükşapçı Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 332,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147983",
+      "mahalle_ad": "Çakırdere Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 346,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148031",
+      "mahalle_ad": "Çakmak Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 342,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147985",
+      "mahalle_ad": "Çamdibi Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 1497,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10511",
+      "mahalle_ad": "Camiikebir Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 2286,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10512",
+      "mahalle_ad": "Çiğitzade Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 493,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147987",
+      "mahalle_ad": "Dereören Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 305,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10513",
+      "mahalle_ad": "Ebubekir Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 3426,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147989",
+      "mahalle_ad": "Eğmir Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 416,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147991",
+      "mahalle_ad": "Eseler Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 456,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147993",
+      "mahalle_ad": "Fazlıca Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 848,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147997",
+      "mahalle_ad": "Halılar Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 278,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147995",
+      "mahalle_ad": "Hallaçlar Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 760,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10514",
+      "mahalle_ad": "Hamambaşı Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 1973,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "147999",
+      "mahalle_ad": "Hüseyinbeşeler Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 274,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148001",
+      "mahalle_ad": "İnönü Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 155,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148003",
+      "mahalle_ad": "Kalabak Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 764,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148005",
+      "mahalle_ad": "Karalar Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 58,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148007",
+      "mahalle_ad": "Karaoğlanlar Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 214,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148009",
+      "mahalle_ad": "Kobaklar Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 741,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148011",
+      "mahalle_ad": "Kocadağ Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 308,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148013",
+      "mahalle_ad": "Kocaseyit Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 1780,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148015",
+      "mahalle_ad": "Köylüce Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 333,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148017",
+      "mahalle_ad": "Küçükdere Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 714,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148019",
+      "mahalle_ad": "Küçükşapçı Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 561,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10515",
+      "mahalle_ad": "Mescit Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 460,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148021",
+      "mahalle_ad": "Sarnıç Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 201,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148023",
+      "mahalle_ad": "Tarlabaşı Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 205,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148025",
+      "mahalle_ad": "Taşarası Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 92,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10516",
+      "mahalle_ad": "Tekke Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 1785,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148027",
+      "mahalle_ad": "Temaşalık Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 1371,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148029",
+      "mahalle_ad": "Tepeoba Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 577,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10517",
+      "mahalle_ad": "Yeni Mah.",
+      "ilce_ad": "Havran",
+      "nufus": 2277,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10525",
+      "mahalle_ad": "7eylül Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 1420,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148041",
+      "mahalle_ad": "Akçal Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 158,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148043",
+      "mahalle_ad": "Aşağıkaleoba Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 167,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148113",
+      "mahalle_ad": "Ayaklı Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 330,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "133371",
+      "mahalle_ad": "Bahçelievler Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 1766,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10522",
+      "mahalle_ad": "Bedrettin Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 1230,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148045",
+      "mahalle_ad": "Bozören Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 1221,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148047",
+      "mahalle_ad": "Büyükfındık Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 587,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148115",
+      "mahalle_ad": "Büyükılıca Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 223,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148039",
+      "mahalle_ad": "Büyükyenice Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 1828,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148117",
+      "mahalle_ad": "Çarkacı Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 212,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148097",
+      "mahalle_ad": "Çatalan Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 259,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148119",
+      "mahalle_ad": "Çelimler Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 283,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148099",
+      "mahalle_ad": "Çiçekli Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 275,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148121",
+      "mahalle_ad": "Çobanlar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 317,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148101",
+      "mahalle_ad": "Çukurlar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 268,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148049",
+      "mahalle_ad": "Çukuroba Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 201,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148123",
+      "mahalle_ad": "Değirmenbaşı Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 713,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148125",
+      "mahalle_ad": "Demirciler Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 169,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148127",
+      "mahalle_ad": "Döşeme Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 113,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148051",
+      "mahalle_ad": "Erdel Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 187,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148053",
+      "mahalle_ad": "Eriklikömürcü Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 65,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148087",
+      "mahalle_ad": "Evciler Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 556,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148129",
+      "mahalle_ad": "Gebeçınar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 345,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148055",
+      "mahalle_ad": "Geçmiş Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 387,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148057",
+      "mahalle_ad": "Gökçeler Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 301,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148033",
+      "mahalle_ad": "Gökçeyazı Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 1177,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148089",
+      "mahalle_ad": "Gömeniç Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 149,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148059",
+      "mahalle_ad": "Gözlüçayır Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 199,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148131",
+      "mahalle_ad": "Gümeli Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 615,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148133",
+      "mahalle_ad": "Hacıahmetler Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 210,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148135",
+      "mahalle_ad": "Haydar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 223,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148061",
+      "mahalle_ad": "Hüseyinbeyobası Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 177,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148137",
+      "mahalle_ad": "İkizce Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 186,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148103",
+      "mahalle_ad": "Ilıcakpınar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 47,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148065",
+      "mahalle_ad": "Karaçepiş Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 625,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148139",
+      "mahalle_ad": "Kaşağıl Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 254,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148035",
+      "mahalle_ad": "Kayapa Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 776,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148141",
+      "mahalle_ad": "Kılcılar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 100,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148143",
+      "mahalle_ad": "Kına Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 115,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148067",
+      "mahalle_ad": "Kınık Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 366,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148145",
+      "mahalle_ad": "Kıpıklar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 214,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "197735",
+      "mahalle_ad": "Kiraz Ören Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 443,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148147",
+      "mahalle_ad": "Kışladere Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 195,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148069",
+      "mahalle_ad": "Kocaeli Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 629,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148071",
+      "mahalle_ad": "Kocaoba Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 288,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148037",
+      "mahalle_ad": "Korucu Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 774,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148073",
+      "mahalle_ad": "Küçükfındık Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 144,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148151",
+      "mahalle_ad": "Küçükılıca Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 179,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148075",
+      "mahalle_ad": "Küçükyenice Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 613,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10523",
+      "mahalle_ad": "Kurtuluş Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 2194,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148149",
+      "mahalle_ad": "Kuşdere Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 209,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148153",
+      "mahalle_ad": "Mallıca Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 363,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "181426",
+      "mahalle_ad": "Okçular Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 507,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148105",
+      "mahalle_ad": "Osmanköy Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 218,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148077",
+      "mahalle_ad": "Osmanlar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 390,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148107",
+      "mahalle_ad": "Pelitören Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 155,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10524",
+      "mahalle_ad": "Sakarya Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 1100,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148079",
+      "mahalle_ad": "Sarıca Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 136,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148109",
+      "mahalle_ad": "Sarıpınar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 173,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148091",
+      "mahalle_ad": "Sofular Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 389,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148093",
+      "mahalle_ad": "Soğanbükü Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 799,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148111",
+      "mahalle_ad": "Susuzyayla Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 262,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148155",
+      "mahalle_ad": "Taşdibi Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 121,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148081",
+      "mahalle_ad": "Topuzlar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 461,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148083",
+      "mahalle_ad": "Yağlılar Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 766,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148095",
+      "mahalle_ad": "Yaren Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 94,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148085",
+      "mahalle_ad": "Yeşilköy Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 124,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148063",
+      "mahalle_ad": "Yukarıkaleoba Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 101,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148157",
+      "mahalle_ad": "Yürekli Mah.",
+      "ilce_ad": "İvrindi",
+      "nufus": 454,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10333",
+      "mahalle_ad": "1.Oruçgazi Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 4368,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10337",
+      "mahalle_ad": "1.Sakarya Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 12195,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10334",
+      "mahalle_ad": "2.Oruçgazi Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 948,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10338",
+      "mahalle_ad": "2.Sakarya Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 15925,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10305",
+      "mahalle_ad": "Adnan Menderes Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 11489,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10306",
+      "mahalle_ad": "Akıncılar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 765,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146907",
+      "mahalle_ad": "Aktarma Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 357,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146855",
+      "mahalle_ad": "Alacabayır Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 141,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10307",
+      "mahalle_ad": "Ali Hikmet Paşa Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 8972,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146857",
+      "mahalle_ad": "Armutalan Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 227,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10309",
+      "mahalle_ad": "Atatürk Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 14879,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10310",
+      "mahalle_ad": "Aygören Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 1405,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146909",
+      "mahalle_ad": "Bakacak Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 925,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146911",
+      "mahalle_ad": "Beyköy Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 384,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146859",
+      "mahalle_ad": "Boğazköy Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 73,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146861",
+      "mahalle_ad": "Büyükpınar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 168,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146901",
+      "mahalle_ad": "Çanacık Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 56,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10312",
+      "mahalle_ad": "Çay Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 1301,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146903",
+      "mahalle_ad": "Çaypınar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 301,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146893",
+      "mahalle_ad": "Davutlar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 141,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146913",
+      "mahalle_ad": "Deliklitaş Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 586,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10314",
+      "mahalle_ad": "Dumlupınar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 1058,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146863",
+      "mahalle_ad": "Düzoba Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 101,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10315",
+      "mahalle_ad": "Ege Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 2797,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10316",
+      "mahalle_ad": "Eski Kuyumcular Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 953,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146865",
+      "mahalle_ad": "Fethiye Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 141,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10322",
+      "mahalle_ad": "Hacı İsmail Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 836,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146867",
+      "mahalle_ad": "Halkapınar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 189,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146869",
+      "mahalle_ad": "Hisaralan Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 290,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10324",
+      "mahalle_ad": "Hisariçi Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 1023,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146905",
+      "mahalle_ad": "İbirler Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 243,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146915",
+      "mahalle_ad": "Kabakdere Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 2050,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146917",
+      "mahalle_ad": "Kalaycılar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 697,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "197263",
+      "mahalle_ad": "Kamçıllı Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 564,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146871",
+      "mahalle_ad": "Karabeyler Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 161,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146873",
+      "mahalle_ad": "Karakol Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 191,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10325",
+      "mahalle_ad": "Karaoğlan Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 860,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10326",
+      "mahalle_ad": "Karesi Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 714,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146919",
+      "mahalle_ad": "Kavaklı Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 200,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10328",
+      "mahalle_ad": "Kayabey Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 3148,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146875",
+      "mahalle_ad": "Kırmızılar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 258,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10329",
+      "mahalle_ad": "Kızpınar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 1070,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146853",
+      "mahalle_ad": "Kocaavşar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 1531,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146921",
+      "mahalle_ad": "Köteyli Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 283,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146877",
+      "mahalle_ad": "Kurtdere Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 446,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10330",
+      "mahalle_ad": "Kuva-İ Milliye Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 10269,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10331",
+      "mahalle_ad": "Maltepe Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 10604,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10332",
+      "mahalle_ad": "Mirzabey Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 1913,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146923",
+      "mahalle_ad": "Naipli Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 702,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146925",
+      "mahalle_ad": "Ortaca Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 224,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146927",
+      "mahalle_ad": "Ovacık Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 718,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10335",
+      "mahalle_ad": "Paşa Alanı Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 30191,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146851",
+      "mahalle_ad": "Şamlı Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 900,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146881",
+      "mahalle_ad": "Taşkesiği Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 78,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146879",
+      "mahalle_ad": "Tatlıpınar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 617,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146883",
+      "mahalle_ad": "Toybelen Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 175,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10340",
+      "mahalle_ad": "Toygar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 24003,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146929",
+      "mahalle_ad": "Turplu Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 530,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146933",
+      "mahalle_ad": "Üçpınar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 1453,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10341",
+      "mahalle_ad": "Vicdaniye Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 2404,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146887",
+      "mahalle_ad": "Yağcılar Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 486,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146895",
+      "mahalle_ad": "Yaylabayır Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 369,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146885",
+      "mahalle_ad": "Yaylacık Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 447,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146889",
+      "mahalle_ad": "Yeniiskender Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 77,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146897",
+      "mahalle_ad": "Yeniköy Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 828,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10344",
+      "mahalle_ad": "Yeni Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 5218,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146891",
+      "mahalle_ad": "Yeroluk Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 181,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146899",
+      "mahalle_ad": "Yeşilova Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 195,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10342",
+      "mahalle_ad": "Yıldırım Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 1251,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "146931",
+      "mahalle_ad": "Ziyaretli Mah.",
+      "ilce_ad": "Karesi",
+      "nufus": 201,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148159",
+      "mahalle_ad": "Ahmetölen Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 72,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148161",
+      "mahalle_ad": "Akçakertil Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 57,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148163",
+      "mahalle_ad": "Akçaköy Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 337,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148165",
+      "mahalle_ad": "Alagüney Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 79,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148167",
+      "mahalle_ad": "Armutlu Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 194,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148169",
+      "mahalle_ad": "Bağtepe Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 177,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148171",
+      "mahalle_ad": "Bektaşlar Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 135,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148173",
+      "mahalle_ad": "Beyköy Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 675,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148247",
+      "mahalle_ad": "Bükdere Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 395,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148249",
+      "mahalle_ad": "Büyükkatrancı Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 114,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148251",
+      "mahalle_ad": "Çalkandil Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 63,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10539",
+      "mahalle_ad": "Camiiatik Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 618,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10540",
+      "mahalle_ad": "Camiicedit Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 3528,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148253",
+      "mahalle_ad": "Dalköy Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 93,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148175",
+      "mahalle_ad": "Danahisar Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 254,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148177",
+      "mahalle_ad": "Darıçukuru Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 82,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148179",
+      "mahalle_ad": "Dedekaşı Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 83,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148181",
+      "mahalle_ad": "Dereli Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 142,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148183",
+      "mahalle_ad": "Dombaydere Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 28,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148245",
+      "mahalle_ad": "Durak Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 57,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148185",
+      "mahalle_ad": "Eşeler Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 668,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148187",
+      "mahalle_ad": "Eyüpbükü Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 100,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148189",
+      "mahalle_ad": "Göbel Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 32,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148255",
+      "mahalle_ad": "Gökköy Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 344,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148191",
+      "mahalle_ad": "Hotaşlar Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 1217,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10541",
+      "mahalle_ad": "İhsaniye Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 785,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148257",
+      "mahalle_ad": "İsaalan Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 418,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148243",
+      "mahalle_ad": "Işıklar Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 105,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148193",
+      "mahalle_ad": "Kalburcu Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 216,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148197",
+      "mahalle_ad": "Karacaağaç Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 64,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148201",
+      "mahalle_ad": "Karaçaltı Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 247,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148199",
+      "mahalle_ad": "Karacaören Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 88,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148203",
+      "mahalle_ad": "Karagöz Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 133,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148205",
+      "mahalle_ad": "Karahaliller Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 104,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10542",
+      "mahalle_ad": "Kasapzade Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 753,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148259",
+      "mahalle_ad": "Kayacıklar Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 65,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148261",
+      "mahalle_ad": "Kayaeli Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 85,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148207",
+      "mahalle_ad": "Keçidere Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 178,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148263",
+      "mahalle_ad": "Kepekler Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 37,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148265",
+      "mahalle_ad": "Kızıloluk Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 65,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148267",
+      "mahalle_ad": "Küçükkatrancı Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 71,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10543",
+      "mahalle_ad": "Mahkeme Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 496,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148209",
+      "mahalle_ad": "Mahmudiye Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 755,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148211",
+      "mahalle_ad": "Mehmetler Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 93,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148269",
+      "mahalle_ad": "Mestanlar Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 126,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148213",
+      "mahalle_ad": "Mezitler Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 81,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148215",
+      "mahalle_ad": "Nusret Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 279,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148271",
+      "mahalle_ad": "Örencik Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 98,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148273",
+      "mahalle_ad": "Örenharman Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 133,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148221",
+      "mahalle_ad": "Örenli Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 151,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148217",
+      "mahalle_ad": "Osmaniye Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 511,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148219",
+      "mahalle_ad": "Ovacık Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 31,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148275",
+      "mahalle_ad": "Piyade Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 230,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148223",
+      "mahalle_ad": "Recep Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 197,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148225",
+      "mahalle_ad": "Saraç Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 615,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148227",
+      "mahalle_ad": "Sarıçayır Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 23,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148229",
+      "mahalle_ad": "Sarıfakılar Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 123,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148277",
+      "mahalle_ad": "Sayacık Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 298,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148279",
+      "mahalle_ad": "Seçdere Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 106,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148231",
+      "mahalle_ad": "Serçeören Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 331,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148235",
+      "mahalle_ad": "Şeremetler Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 286,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148233",
+      "mahalle_ad": "Servet Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 146,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148237",
+      "mahalle_ad": "Tekkeışıklar Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 159,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148239",
+      "mahalle_ad": "Tilkicik Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 21,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148281",
+      "mahalle_ad": "Tuzak Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 66,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148283",
+      "mahalle_ad": "Yaylabaşı Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 290,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10544",
+      "mahalle_ad": "Yenice Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 2541,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148195",
+      "mahalle_ad": "Yeşildağ Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 93,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148241",
+      "mahalle_ad": "Yoğunoluk Mah.",
+      "ilce_ad": "Kepsut",
+      "nufus": 149,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148361",
+      "mahalle_ad": "Akçaova Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 463,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "99811",
+      "mahalle_ad": "Atatürk Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 1419,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148289",
+      "mahalle_ad": "Boğazpınar Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 470,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148291",
+      "mahalle_ad": "Bölceağaç Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 339,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148363",
+      "mahalle_ad": "Çakırca Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 278,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148295",
+      "mahalle_ad": "Çal Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 161,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148297",
+      "mahalle_ad": "Çamlı Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 338,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10545",
+      "mahalle_ad": "Çarşı Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 2686,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148299",
+      "mahalle_ad": "Çataltepe Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 87,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148301",
+      "mahalle_ad": "Çavuşköy Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 215,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148293",
+      "mahalle_ad": "Cumhuriyet Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 162,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148341",
+      "mahalle_ad": "Darıca Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 310,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148343",
+      "mahalle_ad": "Değirmenboğazı Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 87,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148303",
+      "mahalle_ad": "Dereköy Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 66,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148365",
+      "mahalle_ad": "Doğancı Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 51,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148367",
+      "mahalle_ad": "Dura Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 229,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148305",
+      "mahalle_ad": "Erecek Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 114,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148309",
+      "mahalle_ad": "Eşen Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 166,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148307",
+      "mahalle_ad": "Eskiçatal Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 369,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148333",
+      "mahalle_ad": "Eskimanyas Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 177,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148345",
+      "mahalle_ad": "Hacıibrahimpınarı Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 124,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148347",
+      "mahalle_ad": "Hacıosman Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 84,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148349",
+      "mahalle_ad": "Hacıyakup Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 51,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148369",
+      "mahalle_ad": "Hamamlı Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 276,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148311",
+      "mahalle_ad": "Haydar Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 219,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148313",
+      "mahalle_ad": "Hekim Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 220,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148315",
+      "mahalle_ad": "İrşadiye Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 57,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148351",
+      "mahalle_ad": "Işıklar Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 105,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "181424",
+      "mahalle_ad": "Kalebayır Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 402,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148317",
+      "mahalle_ad": "Kalfa Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 60,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148319",
+      "mahalle_ad": "Kapaklı Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 181,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148353",
+      "mahalle_ad": "Karakabaağaç Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 73,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148321",
+      "mahalle_ad": "Kayaca Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 156,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148323",
+      "mahalle_ad": "Kızık Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 359,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148285",
+      "mahalle_ad": "Kızıksa Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 848,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148371",
+      "mahalle_ad": "Kocagöl Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 453,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148325",
+      "mahalle_ad": "Koçoğlu Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 303,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148327",
+      "mahalle_ad": "Kubaş Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 96,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148329",
+      "mahalle_ad": "Kulak Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 404,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10546",
+      "mahalle_ad": "Maltepe Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 713,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148355",
+      "mahalle_ad": "Necip Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 143,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148357",
+      "mahalle_ad": "Ören Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 56,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148331",
+      "mahalle_ad": "Peynirkuyu Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 313,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148287",
+      "mahalle_ad": "Salur Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 938,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148359",
+      "mahalle_ad": "Şevketiye Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 285,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148373",
+      "mahalle_ad": "Süleymanlı Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 379,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148335",
+      "mahalle_ad": "Tepecik Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 205,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148337",
+      "mahalle_ad": "Yayla Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 110,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148339",
+      "mahalle_ad": "Yeniköy Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 228,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10547",
+      "mahalle_ad": "Yeni Mah.",
+      "ilce_ad": "Manyas",
+      "nufus": 1622,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "197253",
+      "mahalle_ad": "Abroz Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 424,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148379",
+      "mahalle_ad": "Asmalı Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 312,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148375",
+      "mahalle_ad": "Avşa Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 1060,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10561",
+      "mahalle_ad": "Çınarlı Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 564,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10553",
+      "mahalle_ad": "Cumhuriyet Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 609,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "197257",
+      "mahalle_ad": "Deniz Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 2258,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148381",
+      "mahalle_ad": "Ekinlik Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 163,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148383",
+      "mahalle_ad": "Gündoğdu Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 335,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10554",
+      "mahalle_ad": "Hürriyet Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 608,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10555",
+      "mahalle_ad": "Okullar Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 713,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148377",
+      "mahalle_ad": "Saraylar Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 2497,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148385",
+      "mahalle_ad": "Topağaç Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 688,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "107438",
+      "mahalle_ad": "Yeni Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 654,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "197255",
+      "mahalle_ad": "Yiğitler Mah.",
+      "ilce_ad": "Marmara",
+      "nufus": 942,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148389",
+      "mahalle_ad": "Akpınar Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 110,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148391",
+      "mahalle_ad": "Ardıçlı Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 74,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148393",
+      "mahalle_ad": "Aşağıdanişment Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 154,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148395",
+      "mahalle_ad": "Beyköy Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 49,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148397",
+      "mahalle_ad": "Bozalan Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 109,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148399",
+      "mahalle_ad": "Çaltılı Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 61,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148401",
+      "mahalle_ad": "Çamurlu Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 87,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148403",
+      "mahalle_ad": "Çavlı Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 79,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148405",
+      "mahalle_ad": "Çiftlikdere Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 44,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148457",
+      "mahalle_ad": "Çukurçayır Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 73,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10564",
+      "mahalle_ad": "Cumhuriyet Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 4323,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148407",
+      "mahalle_ad": "Deveören Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 65,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148409",
+      "mahalle_ad": "Dikmeler Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 127,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148411",
+      "mahalle_ad": "Eğerci Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 72,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148459",
+      "mahalle_ad": "Esenköy Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 81,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10565",
+      "mahalle_ad": "Fatih Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 1535,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148413",
+      "mahalle_ad": "Güvemküçüktarla Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 241,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148461",
+      "mahalle_ad": "Güvem Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 87,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148415",
+      "mahalle_ad": "Hıdırbalı Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 26,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10566",
+      "mahalle_ad": "Hürriyet Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 523,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148417",
+      "mahalle_ad": "İsadere Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 226,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10567",
+      "mahalle_ad": "İstiklal Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 1422,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148419",
+      "mahalle_ad": "Kalemköy Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 74,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148421",
+      "mahalle_ad": "Karacalar Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 586,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148423",
+      "mahalle_ad": "Karaçam Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 243,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148425",
+      "mahalle_ad": "Karapınar Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 140,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148427",
+      "mahalle_ad": "Kocabıyıklar Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 93,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148429",
+      "mahalle_ad": "Kocaören Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 38,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148465",
+      "mahalle_ad": "Koğukyurt Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 68,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148463",
+      "mahalle_ad": "Kongurca Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 60,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148431",
+      "mahalle_ad": "Kurudere Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 165,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148467",
+      "mahalle_ad": "Madenmezarı Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 140,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148433",
+      "mahalle_ad": "Mecidiye Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 161,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148469",
+      "mahalle_ad": "Minnetler Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 192,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148435",
+      "mahalle_ad": "Pelitcik Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 91,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148387",
+      "mahalle_ad": "Sarıbeyler Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 1930,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148437",
+      "mahalle_ad": "Sarısüleymanlar Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 217,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148471",
+      "mahalle_ad": "Sıtmapınar Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 72,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148439",
+      "mahalle_ad": "Soğucak Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 164,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148441",
+      "mahalle_ad": "Söğütçük Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 262,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148443",
+      "mahalle_ad": "Söğütlügözle Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 32,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148445",
+      "mahalle_ad": "Tavşancık Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 90,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148473",
+      "mahalle_ad": "Türediler Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 67,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148447",
+      "mahalle_ad": "Yazören Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 120,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148449",
+      "mahalle_ad": "Yeşilhisar Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 544,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148475",
+      "mahalle_ad": "Yolcupınarı Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 51,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148451",
+      "mahalle_ad": "Yukarıdanişment Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 91,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148453",
+      "mahalle_ad": "Yukarıkaraçam Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 38,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148455",
+      "mahalle_ad": "Yunakdere Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 131,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10568",
+      "mahalle_ad": "Zafer Mah.",
+      "ilce_ad": "Savaştepe",
+      "nufus": 838,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148603",
+      "mahalle_ad": "Akçakısrak Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 298,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148483",
+      "mahalle_ad": "Aktaş Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 111,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148485",
+      "mahalle_ad": "Alacaatlı Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 398,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148487",
+      "mahalle_ad": "Alakır Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 191,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148569",
+      "mahalle_ad": "Alayaka Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 330,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148489",
+      "mahalle_ad": "Armutlu Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 298,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148491",
+      "mahalle_ad": "Aslandede Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 258,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148495",
+      "mahalle_ad": "Bayraklı Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 128,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148609",
+      "mahalle_ad": "Bükrecik Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 88,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148571",
+      "mahalle_ad": "Bulak Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 92,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148497",
+      "mahalle_ad": "Büyükdağdere Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 477,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148499",
+      "mahalle_ad": "Çakıllı Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 144,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148501",
+      "mahalle_ad": "Çaltılı Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 18,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148573",
+      "mahalle_ad": "Çamalanı Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 257,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10574",
+      "mahalle_ad": "Camicedit Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 3060,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10575",
+      "mahalle_ad": "Camikebir Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 2332,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10576",
+      "mahalle_ad": "Çavdaroğlu Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 1873,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148503",
+      "mahalle_ad": "Çaygören Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 168,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148575",
+      "mahalle_ad": "Çayır Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 50,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148505",
+      "mahalle_ad": "Çelebiler Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 154,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148577",
+      "mahalle_ad": "Çıkrıkçı Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 154,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148579",
+      "mahalle_ad": "Çılbırcı Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 103,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148507",
+      "mahalle_ad": "Çoturtepe Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 130,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148493",
+      "mahalle_ad": "Cüneyt Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 148,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148509",
+      "mahalle_ad": "Danaçayır Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 47,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148581",
+      "mahalle_ad": "Dedeler Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 95,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148583",
+      "mahalle_ad": "Derecikören Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 233,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148585",
+      "mahalle_ad": "Devletlibaba Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 150,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148587",
+      "mahalle_ad": "Düğüncüler Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 172,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148567",
+      "mahalle_ad": "Düvertepe Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 236,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148605",
+      "mahalle_ad": "Eğridere Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 259,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148513",
+      "mahalle_ad": "Emendere Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 399,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148607",
+      "mahalle_ad": "Eşmedere Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 235,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148481",
+      "mahalle_ad": "Gölcük Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 719,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148589",
+      "mahalle_ad": "Gözören Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 104,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148511",
+      "mahalle_ad": "Hisaralan Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 207,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148517",
+      "mahalle_ad": "İbiller Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 405,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148515",
+      "mahalle_ad": "Işıklar Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 411,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148591",
+      "mahalle_ad": "İzzettin Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 259,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148519",
+      "mahalle_ad": "Karaağaç Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 243,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148593",
+      "mahalle_ad": "Karacalar Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 85,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148521",
+      "mahalle_ad": "Karagür Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 241,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "197233",
+      "mahalle_ad": "Karakaya Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 385,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148523",
+      "mahalle_ad": "Kepez Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 134,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148525",
+      "mahalle_ad": "Kertil Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 150,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148527",
+      "mahalle_ad": "Kınık Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 546,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148529",
+      "mahalle_ad": "Kıranköy Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 103,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148531",
+      "mahalle_ad": "Kızılgür Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 116,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148533",
+      "mahalle_ad": "Kocabey Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 179,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10579",
+      "mahalle_ad": "Kocakonak Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 1357,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148535",
+      "mahalle_ad": "Kocasinan Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 302,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148537",
+      "mahalle_ad": "Kozlu Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 229,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148539",
+      "mahalle_ad": "Küçükbükü Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 245,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148541",
+      "mahalle_ad": "Küçükdağdere Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 276,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148595",
+      "mahalle_ad": "Kürendere Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 285,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10577",
+      "mahalle_ad": "Kurtuluş Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 2863,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148543",
+      "mahalle_ad": "Mandıra Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 215,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148597",
+      "mahalle_ad": "Mumcuköy Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 227,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148545",
+      "mahalle_ad": "Ormaniçi Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 61,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148547",
+      "mahalle_ad": "Osmanlar Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 564,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148599",
+      "mahalle_ad": "Pelitören Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 66,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148549",
+      "mahalle_ad": "Pürsünler Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 303,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10578",
+      "mahalle_ad": "Rızaiye Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 464,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148555",
+      "mahalle_ad": "Şahinkaya Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 128,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148601",
+      "mahalle_ad": "Şapçı Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 121,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148551",
+      "mahalle_ad": "Sinandede Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 116,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148553",
+      "mahalle_ad": "Süller Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 372,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148557",
+      "mahalle_ad": "Taşköy Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 309,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148559",
+      "mahalle_ad": "Umurlar Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 807,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "185438",
+      "mahalle_ad": "Yağcıbedir Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 1631,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148477",
+      "mahalle_ad": "Yaylabayır Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 801,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148561",
+      "mahalle_ad": "Yaylacık Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 169,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148563",
+      "mahalle_ad": "Yolcupınar Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 120,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148479",
+      "mahalle_ad": "Yüreğil Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 1679,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148565",
+      "mahalle_ad": "Yusufçamı Mah.",
+      "ilce_ad": "Sındırgı",
+      "nufus": 399,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148683",
+      "mahalle_ad": "Alibey Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 114,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148685",
+      "mahalle_ad": "Asmalıdere Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 79,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148615",
+      "mahalle_ad": "Aziziye Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 151,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148617",
+      "mahalle_ad": "Babaköy Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 322,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148619",
+      "mahalle_ad": "Balıklıdere Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 304,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148667",
+      "mahalle_ad": "Beyköy Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 238,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148621",
+      "mahalle_ad": "Bozen Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 333,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10591",
+      "mahalle_ad": "Burhaniye Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 2567,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148623",
+      "mahalle_ad": "Buzağılık Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 246,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148687",
+      "mahalle_ad": "Danaveli Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 411,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148689",
+      "mahalle_ad": "Demirkapı Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 598,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148625",
+      "mahalle_ad": "Dereköy Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 728,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148627",
+      "mahalle_ad": "Duman Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 44,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148629",
+      "mahalle_ad": "Ekinlik Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 58,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148691",
+      "mahalle_ad": "Eminpınarı Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 93,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148613",
+      "mahalle_ad": "Göbel Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 1686,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148631",
+      "mahalle_ad": "Gökçeağaç Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 228,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148693",
+      "mahalle_ad": "Gökçedere Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 139,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148633",
+      "mahalle_ad": "Günaydın Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 187,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148635",
+      "mahalle_ad": "Gürece Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 312,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10592",
+      "mahalle_ad": "Han Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 3331,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148637",
+      "mahalle_ad": "İclaliye Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 75,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148669",
+      "mahalle_ad": "Ilıcaboğazı Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 156,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148639",
+      "mahalle_ad": "Kalfaköy Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 89,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148641",
+      "mahalle_ad": "Karaköy Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 517,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148611",
+      "mahalle_ad": "Karapürçek Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 1404,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10593",
+      "mahalle_ad": "Karşıyaka Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 2770,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148695",
+      "mahalle_ad": "Kayalıdere Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 49,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148643",
+      "mahalle_ad": "Kayıkçı Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 251,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148671",
+      "mahalle_ad": "Kepekler Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 140,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148697",
+      "mahalle_ad": "Kiraz Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 86,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10594",
+      "mahalle_ad": "Kışla Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 2177,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148645",
+      "mahalle_ad": "Kocapınar Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 106,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148647",
+      "mahalle_ad": "Kulat Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 56,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148649",
+      "mahalle_ad": "Kurucaoluk Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 173,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148673",
+      "mahalle_ad": "Muradiye Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 506,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148699",
+      "mahalle_ad": "Odalıdam Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 48,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148675",
+      "mahalle_ad": "Okçugöl Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 150,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148681",
+      "mahalle_ad": "Ömerköy Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 260,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10595",
+      "mahalle_ad": "Orta Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 1415,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148651",
+      "mahalle_ad": "Paşaköy Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 83,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148701",
+      "mahalle_ad": "Reşadiye Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 372,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10597",
+      "mahalle_ad": "Şeker Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 362,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148653",
+      "mahalle_ad": "Söğütçayır Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 444,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148677",
+      "mahalle_ad": "Söve Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 448,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148657",
+      "mahalle_ad": "Sülecek Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 73,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148655",
+      "mahalle_ad": "Sultançayır Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 156,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10596",
+      "mahalle_ad": "Sultaniye Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 2601,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148679",
+      "mahalle_ad": "Ümiteli Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 346,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148659",
+      "mahalle_ad": "Yağcı Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 160,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148661",
+      "mahalle_ad": "Yahyaköy Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 364,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148663",
+      "mahalle_ad": "Yaylaçayır Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 273,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "10598",
+      "mahalle_ad": "Yeni Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 8959,
+      "yil": 2025
+    },
+    {
+      "mahalle_kodu": "148665",
+      "mahalle_ad": "Yıldız Mah.",
+      "ilce_ad": "Susurluk",
+      "nufus": 438,
+      "yil": 2025
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.0.0",
+  "data_year": 2025,
+  "geographic_level": "ilce",
+  "source_filename": "yaş-mahalle.csv",
+  "source_sha256": "29fc648aa2fb8378ad84f35535e56a929a9df666c90325fb86887177cef632b3",
+  "records": [
+    {
+      "ilce_kodu": "2077",
+      "ilce_ad": "Altıeylül",
+      "cocuk_bagimlilik": 23.73,
+      "toplam_bagimlilik": 42.87,
+      "yasli_bagimlilik": 19.14,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1161",
+      "ilce_ad": "Ayvalık",
+      "cocuk_bagimlilik": 22.07,
+      "toplam_bagimlilik": 54.86,
+      "yasli_bagimlilik": 32.79,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1169",
+      "ilce_ad": "Balya",
+      "cocuk_bagimlilik": 15.18,
+      "toplam_bagimlilik": 72.79,
+      "yasli_bagimlilik": 57.62,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1171",
+      "ilce_ad": "Bandırma",
+      "cocuk_bagimlilik": 22.83,
+      "toplam_bagimlilik": 42.65,
+      "yasli_bagimlilik": 19.83,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1191",
+      "ilce_ad": "Bigadiç",
+      "cocuk_bagimlilik": 19.17,
+      "toplam_bagimlilik": 45.67,
+      "yasli_bagimlilik": 26.51,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1216",
+      "ilce_ad": "Burhaniye",
+      "cocuk_bagimlilik": 22.53,
+      "toplam_bagimlilik": 52.62,
+      "yasli_bagimlilik": 30.09,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1291",
+      "ilce_ad": "Dursunbey",
+      "cocuk_bagimlilik": 19.92,
+      "toplam_bagimlilik": 59.62,
+      "yasli_bagimlilik": 39.7,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1294",
+      "ilce_ad": "Edremit",
+      "cocuk_bagimlilik": 24.44,
+      "toplam_bagimlilik": 56.59,
+      "yasli_bagimlilik": 32.16,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1310",
+      "ilce_ad": "Erdek",
+      "cocuk_bagimlilik": 19.13,
+      "toplam_bagimlilik": 60.51,
+      "yasli_bagimlilik": 41.38,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1928",
+      "ilce_ad": "Gömeç",
+      "cocuk_bagimlilik": 26.58,
+      "toplam_bagimlilik": 55.53,
+      "yasli_bagimlilik": 28.96,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1360",
+      "ilce_ad": "Gönen",
+      "cocuk_bagimlilik": 22.37,
+      "toplam_bagimlilik": 50.55,
+      "yasli_bagimlilik": 28.18,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1384",
+      "ilce_ad": "Havran",
+      "cocuk_bagimlilik": 30.24,
+      "toplam_bagimlilik": 55.25,
+      "yasli_bagimlilik": 25.02,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1418",
+      "ilce_ad": "İvrindi",
+      "cocuk_bagimlilik": 21.03,
+      "toplam_bagimlilik": 58.2,
+      "yasli_bagimlilik": 37.17,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "2078",
+      "ilce_ad": "Karesi",
+      "cocuk_bagimlilik": 25.03,
+      "toplam_bagimlilik": 45.25,
+      "yasli_bagimlilik": 20.22,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1462",
+      "ilce_ad": "Kepsut",
+      "cocuk_bagimlilik": 14.48,
+      "toplam_bagimlilik": 51.71,
+      "yasli_bagimlilik": 37.23,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1514",
+      "ilce_ad": "Manyas",
+      "cocuk_bagimlilik": 18.2,
+      "toplam_bagimlilik": 63.26,
+      "yasli_bagimlilik": 45.06,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1824",
+      "ilce_ad": "Marmara",
+      "cocuk_bagimlilik": 20.94,
+      "toplam_bagimlilik": 53.36,
+      "yasli_bagimlilik": 32.42,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1608",
+      "ilce_ad": "Savaştepe",
+      "cocuk_bagimlilik": 21.09,
+      "toplam_bagimlilik": 53.31,
+      "yasli_bagimlilik": 32.21,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1619",
+      "ilce_ad": "Sındırgı",
+      "cocuk_bagimlilik": 17.66,
+      "toplam_bagimlilik": 68.96,
+      "yasli_bagimlilik": 51.3,
+      "yil": 2025
+    },
+    {
+      "ilce_kodu": "1644",
+      "ilce_ad": "Susurluk",
+      "cocuk_bagimlilik": 21.69,
+      "toplam_bagimlilik": 53.8,
+      "yasli_bagimlilik": 32.11,
+      "yil": 2025
+    }
+  ]
+}

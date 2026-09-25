@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "source_filename": "toplanma-alanlari-.kml",
+  "source_sha256": "241804704be5c6e448cf240475424c1f2ee418f4dc03e5c4b79b02eebfe521ad",
+  "dataset_url": "https://acikveri.balikesir.bel.tr/dataset/acil-toplanma-alanlari",
+  "placemark_count": 1,
+  "polygon_count": 1682,
+  "inner_boundary_count": 2,
+  "official_distinct_areas_count": null,
+  "is_per_area_attribute_matched": false,
+  "single_source_record": {
+    "id": "59183426",
+    "ad": "KEPSUT_62_NOLU_TOPLANMA_ALANI",
+    "il": "BALIKESİR",
+    "ilce": "KEPSUT",
+    "mahalle": "YEŞİLDAĞ",
+    "enlem": 39.828839862375446,
+    "boylam": 28.39970610319765,
+    "alan_m2": 545.781273959205,
+    "su": true,
+    "elektrik": true,
+    "wc": true,
+    "tabela_kod": "1014-068-62",
+    "yol_durumu": true,
+    "veri_uretim": "Google",
+    "raw_oznitelik": "Açık Adres - Balıkesir ,Kepsut ,Yeşildağ Mh.,Otomatik Hesaplanan Alan (M2) - 545.781273959205,WC/Kanalizasyon - Var,Su - Var,Elektrik - Var,Tabela Kod - 1014-068-62,Veri Üretim - Google,Yol Durumu - Var"
+  },
+  "validation_error_count": 0
+}
