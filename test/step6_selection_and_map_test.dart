@@ -518,7 +518,6 @@ void main() {
             ),
           ),
         );
-        await tester.pump(const Duration(milliseconds: 100));
 
         final normalPolygonLayer = tester.widget<PolygonLayer>(
           find.byType(PolygonLayer),
@@ -537,7 +536,6 @@ void main() {
             ),
           ),
         );
-        await tester.pump(const Duration(milliseconds: 100));
 
         final devPolygonLayer = tester.widget<PolygonLayer>(
           find.byType(PolygonLayer),
@@ -597,7 +595,7 @@ void main() {
             ),
           ),
         );
-        await tester.pump(const Duration(milliseconds: 100));
+        await tester.pump(const Duration(milliseconds: 400));
 
         // Access MapController from FlutterMap widget in HomeScreen
         final flutterMapWidget = tester.widget<FlutterMap>(
@@ -607,7 +605,7 @@ void main() {
 
         // 1. Move camera away from Balıkesir center
         mapController.move(const LatLng(39.0, 27.0), 12.0);
-        await tester.pump(const Duration(milliseconds: 100));
+        await tester.pump(const Duration(milliseconds: 400));
 
         // Verify camera HAS moved away
         expect(mapController.camera.center.latitude, closeTo(39.0, 0.001));
@@ -618,7 +616,7 @@ void main() {
         final recenterBtn = find.byTooltip('Balıkesir Merkeze Odaklan');
         expect(recenterBtn, findsOneWidget);
         await tester.tap(recenterBtn);
-        await tester.pump(const Duration(milliseconds: 100));
+        await tester.pump(const Duration(milliseconds: 400));
 
         // 3. Assert camera center and zoom returned to target Balıkesir center
         expect(mapController.camera.center.latitude, closeTo(39.6484, 0.001));
@@ -649,7 +647,7 @@ void main() {
             ),
           ),
         );
-        await tester.pump(const Duration(milliseconds: 100));
+        await tester.pump(const Duration(milliseconds: 400));
 
         // 1. Find attribution text banner
         final attrFinder = find.textContaining('OpenStreetMap contributors');
@@ -657,7 +655,7 @@ void main() {
 
         // 2. Tap attribution banner and verify url launch
         await tester.tap(attrFinder);
-        await tester.pump(const Duration(milliseconds: 100));
+        await tester.pump(const Duration(milliseconds: 400));
         expect(
           mockLauncher.launchedUrl,
           equals('https://www.openstreetmap.org/copyright'),
@@ -665,9 +663,9 @@ void main() {
 
         // 3. Verify hit test on search bar open
         await tester.enterText(find.byType(TextField), 'Altınoluk');
-        await tester.pump(const Duration(milliseconds: 100));
+        await tester.pump(const Duration(milliseconds: 400));
         await tester.tap(attrFinder);
-        await tester.pump(const Duration(milliseconds: 100));
+        await tester.pump(const Duration(milliseconds: 400));
         expect(
           mockLauncher.launchedUrl,
           equals('https://www.openstreetmap.org/copyright'),

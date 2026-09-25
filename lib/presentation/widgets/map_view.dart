@@ -31,19 +31,27 @@ class _MapViewState extends State<MapView> {
   MapController get _effectiveController =>
       widget.mapController ?? (_internalMapController ??= MapController());
 
+  List<ToplanmaGeometri>? _cachedGeoms;
+  bool? _cachedShowDev;
+  bool? _cachedSufficient;
+  List<Polygon> _cachedPolygons = [];
+
+  List<FaySegmenti>? _cachedFaultSegments;
+  List<Polyline> _cachedFaultPolylines = [];
+
   @override
   void dispose() {
     _internalMapController?.dispose();
     super.dispose();
   }
 
-  @override
-  Widget build(BuildContext context) {
-    final state = context.watch<AppStateViewModel>();
-    final selectedPoint = state.selectedPoint;
-
+  List<Polyline> _getFaultPolylines(List<FaySegmenti> faySegmentleri) {
+    if (_cachedFaultSegments == faySegmentleri) {
+      return _cachedFaultPolylines;
+    }
+    _cachedFaultSegments = faySegmentleri;
     final List<Polyline> faultPolylines = [];
-    for (final segment in state.faySegmentleri) {
+    for (final segment in faySegmentleri) {
       for (final line in segment.subLines) {
         if (line.isNotEmpty) {
           faultPolylines.add(
@@ -56,10 +64,27 @@ class _MapViewState extends State<MapView> {
         }
       }
     }
+    _cachedFaultPolylines = faultPolylines;
+    return _cachedFaultPolylines;
+  }
+
+  List<Polygon> _getAreaPolygons(
+    List<ToplanmaGeometri> geometriler,
+    bool showDevGeometries,
+    bool isAttributeSufficient,
+  ) {
+    if (_cachedGeoms == geometriler &&
+        _cachedShowDev == showDevGeometries &&
+        _cachedSufficient == isAttributeSufficient) {
+      return _cachedPolygons;
+    }
+    _cachedGeoms = geometriler;
+    _cachedShowDev = showDevGeometries;
+    _cachedSufficient = isAttributeSufficient;
 
     final List<Polygon> areaPolygons = [];
-    if (widget.showDevGeometries || state.isToplanmaAttributeSufficient) {
-      for (final geom in state.toplanmaGeometrileri) {
+    if (showDevGeometries || isAttributeSufficient) {
+      for (final geom in geometriler) {
         if (geom.outerRing.isNotEmpty) {
           areaPolygons.add(
             Polygon(
@@ -81,6 +106,21 @@ class _MapViewState extends State<MapView> {
         }
       }
     }
+    _cachedPolygons = areaPolygons;
+    return _cachedPolygons;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final state = context.watch<AppStateViewModel>();
+    final selectedPoint = state.selectedPoint;
+
+    final faultPolylines = _getFaultPolylines(state.faySegmentleri);
+    final areaPolygons = _getAreaPolygons(
+      state.toplanmaGeometrileri,
+      widget.showDevGeometries,
+      state.isToplanmaAttributeSufficient,
+    );
 
     final List<Marker> assemblyMarkers = state.toplanmaAlanlari.map((area) {
       final areaPoint = LatLng(area.enlem, area.boylam);
