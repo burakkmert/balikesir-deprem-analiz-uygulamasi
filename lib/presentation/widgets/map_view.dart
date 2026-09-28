@@ -7,7 +7,9 @@ import 'persistent_osm_tile_provider.dart';
 
 import '../../core/constants.dart';
 import '../../core/theme.dart';
+import '../../domain/entities/fay_segmenti.dart';
 import '../../domain/entities/toplanma_alani.dart';
+import '../../domain/entities/toplanma_geometri.dart';
 import '../viewmodels/app_state_viewmodel.dart';
 
 class MapView extends StatefulWidget {
@@ -83,27 +85,24 @@ class _MapViewState extends State<MapView> {
     _cachedSufficient = isAttributeSufficient;
 
     final List<Polygon> areaPolygons = [];
-    if (showDevGeometries || isAttributeSufficient) {
-      for (final geom in geometriler) {
-        if (geom.outerRing.isNotEmpty) {
-          areaPolygons.add(
-            Polygon(
-              points: geom.outerRing
-                  .map((p) => LatLng(p.latitude, p.longitude))
-                  .toList(),
-              holePointsList: geom.innerRings
-                  .map(
-                    (ring) => ring
-                        .map((p) => LatLng(p.latitude, p.longitude))
-                        .toList(),
-                  )
-                  .toList(),
-              color: AppColors.safeEmerald.withAlpha(50),
-              borderColor: AppColors.safeEmeraldAccent,
-              borderStrokeWidth: 2.0,
-            ),
-          );
-        }
+    for (final geom in geometriler) {
+      if (geom.outerRing.isNotEmpty) {
+        areaPolygons.add(
+          Polygon(
+            points: geom.outerRing
+                .map((p) => LatLng(p.latitude, p.longitude))
+                .toList(),
+            holePointsList: geom.innerRings
+                .map(
+                  (ring) =>
+                      ring.map((p) => LatLng(p.latitude, p.longitude)).toList(),
+                )
+                .toList(),
+            color: AppColors.safeEmerald.withAlpha(50),
+            borderColor: AppColors.safeEmeraldAccent,
+            borderStrokeWidth: 2.0,
+          ),
+        );
       }
     }
     _cachedPolygons = areaPolygons;
@@ -115,46 +114,98 @@ class _MapViewState extends State<MapView> {
     final state = context.watch<AppStateViewModel>();
     final selectedPoint = state.selectedPoint;
 
-    final faultPolylines = _getFaultPolylines(state.faySegmentleri);
-    final areaPolygons = _getAreaPolygons(
-      state.toplanmaGeometrileri,
-      widget.showDevGeometries,
-      state.isToplanmaAttributeSufficient,
-    );
+    if (state.mapFocusTarget != null) {
+      final focusTarget = state.mapFocusTarget!;
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        _effectiveController.move(focusTarget, 14.5);
+        state.clearMapFocus();
+      });
+    }
 
-    final List<Marker> assemblyMarkers = state.toplanmaAlanlari.map((area) {
-      final areaPoint = LatLng(area.enlem, area.boylam);
-      return Marker(
-        point: areaPoint,
-        width: 42,
-        height: 42,
-        child: GestureDetector(
-          onTap: () => _showAssemblyAreaDetails(context, area),
-          child: Container(
-            decoration: BoxDecoration(
-              color: AppColors.surfaceDark,
-              shape: BoxShape.circle,
-              border: Border.all(
-                color: AppColors.safeEmeraldAccent,
-                width: 2.5,
-              ),
-              boxShadow: [
-                BoxShadow(
-                  color: AppColors.safeEmerald.withAlpha(140),
-                  blurRadius: 10,
-                  spreadRadius: 2,
+    final faultPolylines = state.showFaults
+        ? _getFaultPolylines(state.faySegmentleri)
+        : <Polyline>[];
+    final areaPolygons = state.showToplanmaGeometrileri
+        ? _getAreaPolygons(
+            state.toplanmaGeometrileri,
+            widget.showDevGeometries,
+            state.isToplanmaAttributeSufficient,
+          )
+        : <Polygon>[];
+
+    final List<Marker> assemblyMarkers = [];
+    if (state.showToplanmaGeometrileri) {
+      final List<ToplanmaAlani> displayAreas = [];
+      final Set<String> seenIds = {};
+
+      for (final item in state.closestToplanmaAlanlari) {
+        if (seenIds.add(item.area.id)) {
+          displayAreas.add(item.area);
+        }
+      }
+      for (final area in state.toplanmaAlanlari) {
+        if (seenIds.add(area.id)) {
+          displayAreas.add(area);
+        }
+      }
+
+      final String? nearestId = state.closestToplanmaAlanlari.isNotEmpty
+          ? state.closestToplanmaAlanlari.first.area.id
+          : (state.toplanmaAlanlari.isNotEmpty
+                ? state.toplanmaAlanlari.first.id
+                : null);
+
+      for (final area in displayAreas) {
+        if (area.enlem.isNaN ||
+            area.enlem.isInfinite ||
+            area.boylam.isNaN ||
+            area.boylam.isInfinite) {
+          continue;
+        }
+
+        final isNearest = area.id == nearestId;
+        final areaPoint = LatLng(area.enlem, area.boylam);
+
+        assemblyMarkers.add(
+          Marker(
+            point: areaPoint,
+            width: isNearest ? 46 : 38,
+            height: isNearest ? 46 : 38,
+            child: GestureDetector(
+              onTap: () => _showAssemblyAreaDetails(context, area),
+              child: Container(
+                decoration: BoxDecoration(
+                  color: AppColors.surfaceDark,
+                  shape: BoxShape.circle,
+                  border: Border.all(
+                    color: isNearest
+                        ? AppColors.warningAmber
+                        : AppColors.safeEmeraldAccent,
+                    width: isNearest ? 3.0 : 2.0,
+                  ),
+                  boxShadow: [
+                    BoxShadow(
+                      color: isNearest
+                          ? AppColors.warningAmber.withAlpha(160)
+                          : AppColors.safeEmerald.withAlpha(120),
+                      blurRadius: isNearest ? 12 : 8,
+                      spreadRadius: isNearest ? 2 : 1,
+                    ),
+                  ],
                 ),
-              ],
-            ),
-            child: const Icon(
-              Icons.shield_outlined,
-              color: AppColors.safeEmeraldAccent,
-              size: 22,
+                child: Icon(
+                  isNearest ? Icons.star_rounded : Icons.shield_outlined,
+                  color: isNearest
+                      ? AppColors.warningAmber
+                      : AppColors.safeEmeraldAccent,
+                  size: isNearest ? 24 : 20,
+                ),
+              ),
             ),
           ),
-        ),
-      );
-    }).toList();
+        );
+      }
+    }
 
     Marker? targetMarker;
     if (selectedPoint != null) {
@@ -187,6 +238,36 @@ class _MapViewState extends State<MapView> {
       );
     }
 
+    final List<Marker> earthquakeMarkers = [];
+    if (state.showEarthquakes) {
+      for (final eq in state.earthquakes) {
+        final isMajor = eq.buyukluk >= 4.0;
+        final isWarning = eq.buyukluk >= 3.0;
+
+        final color = isMajor
+            ? AppColors.alertBrickRed
+            : (isWarning ? AppColors.warningAmber : AppColors.textSecondary);
+
+        earthquakeMarkers.add(
+          Marker(
+            point: LatLng(eq.enlem, eq.boylam),
+            width: isMajor ? 20 : 16,
+            height: isMajor ? 20 : 16,
+            child: Container(
+              decoration: BoxDecoration(
+                color: color.withAlpha(200),
+                shape: BoxShape.circle,
+                border: Border.all(color: Colors.white, width: 1.5),
+                boxShadow: [
+                  BoxShadow(color: color.withAlpha(100), blurRadius: 4),
+                ],
+              ),
+            ),
+          ),
+        );
+      }
+    }
+
     return FlutterMap(
       mapController: _effectiveController,
       options: MapOptions(
@@ -213,6 +294,7 @@ class _MapViewState extends State<MapView> {
         MarkerLayer(
           markers: [
             ...assemblyMarkers,
+            ...earthquakeMarkers,
             if (targetMarker != null) ...[targetMarker],
           ],
         ),

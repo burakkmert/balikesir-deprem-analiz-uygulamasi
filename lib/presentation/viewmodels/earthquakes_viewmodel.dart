@@ -3,6 +3,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
+import '../../core/constants.dart';
 import '../../domain/entities/deprem_olayi.dart';
 import '../../domain/entities/earthquake_query.dart';
 import '../../domain/entities/geo_point.dart';
@@ -72,14 +73,12 @@ class EarthquakesViewModel extends ChangeNotifier {
     _generation++;
     _debounceTimer?.cancel();
 
-    if (point == null) {
-      clearEarthquakes();
-      return;
-    }
-
-    _currentPoint = point;
+    final effectivePoint =
+        point ??
+        const GeoPoint(AppConstants.balikesirLat, AppConstants.balikesirLng);
+    _currentPoint = effectivePoint;
     _currentQuery = EarthquakeQuery.relative(
-      center: point,
+      center: effectivePoint,
       radiusKm: radius,
       minMagnitude: minMagnitude,
     );
@@ -102,7 +101,7 @@ class EarthquakesViewModel extends ChangeNotifier {
         return;
       }
       fetchEarthquakes(
-        point: point,
+        point: effectivePoint,
         radius: radius,
         minMagnitude: minMagnitude,
       );
@@ -118,19 +117,18 @@ class EarthquakesViewModel extends ChangeNotifier {
     _debounceTimer?.cancel();
     final int thisGen = ++_generation;
 
-    if (point == null) {
-      clearEarthquakes();
-      return;
-    }
+    final effectivePoint =
+        point ??
+        const GeoPoint(AppConstants.balikesirLat, AppConstants.balikesirLng);
 
     final newQuery = EarthquakeQuery.relative(
-      center: point,
+      center: effectivePoint,
       radiusKm: radius,
       minMagnitude: minMagnitude,
     );
     final bool isPointOrQueryChanged =
-        _currentPoint != point || _currentQuery != newQuery;
-    _currentPoint = point;
+        _currentPoint != effectivePoint || _currentQuery != newQuery;
+    _currentPoint = effectivePoint;
     _currentQuery = newQuery;
 
     if (isPointOrQueryChanged || _earthquakes.isEmpty) {
@@ -148,7 +146,9 @@ class EarthquakesViewModel extends ChangeNotifier {
         forceRefresh: forceRefresh,
       );
 
-      if (_disposed || thisGen != _generation || _currentPoint != point) {
+      if (_disposed ||
+          thisGen != _generation ||
+          _currentPoint != effectivePoint) {
         return;
       }
 
@@ -181,7 +181,9 @@ class EarthquakesViewModel extends ChangeNotifier {
         }
       }
     } catch (e) {
-      if (_disposed || thisGen != _generation || _currentPoint != point) {
+      if (_disposed ||
+          thisGen != _generation ||
+          _currentPoint != effectivePoint) {
         return;
       }
       _isRefreshing = false;
@@ -191,7 +193,9 @@ class EarthquakesViewModel extends ChangeNotifier {
       }
       _errorMessage = 'AFAD veri yükleme hatası: $e';
     } finally {
-      if (!_disposed && thisGen == _generation && _currentPoint == point) {
+      if (!_disposed &&
+          thisGen == _generation &&
+          _currentPoint == effectivePoint) {
         _isRefreshing = false;
         notifyListeners();
       }
@@ -205,15 +209,14 @@ class EarthquakesViewModel extends ChangeNotifier {
 
     await _afadRepository.clearCache();
 
-    if (_disposed || preGen != _generation || _currentPoint != point) {
+    final effectivePoint =
+        point ??
+        const GeoPoint(AppConstants.balikesirLat, AppConstants.balikesirLng);
+    if (_disposed || preGen != _generation || _currentPoint != effectivePoint) {
       return;
     }
 
-    if (point != null) {
-      await fetchEarthquakes(point: point, forceRefresh: true);
-    } else {
-      clearEarthquakes();
-    }
+    await fetchEarthquakes(point: effectivePoint, forceRefresh: true);
   }
 
   void clearEarthquakes() {

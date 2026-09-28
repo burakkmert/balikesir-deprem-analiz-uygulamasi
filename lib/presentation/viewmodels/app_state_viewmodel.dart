@@ -43,6 +43,58 @@ class AppStateViewModel extends ChangeNotifier {
     earthquakesVM.addListener(notifyListeners);
   }
 
+  int _currentTabIndex = 0;
+  int get currentTabIndex => _currentTabIndex;
+
+  bool _showToplanmaGeometrileri = true;
+  bool get showToplanmaGeometrileri => _showToplanmaGeometrileri;
+
+  bool _showFaults = true;
+  bool get showFaults => _showFaults;
+
+  bool _showEarthquakes = true;
+  bool get showEarthquakes => _showEarthquakes;
+
+  void selectTab(int index) {
+    if (_currentTabIndex != index) {
+      _currentTabIndex = index;
+      notifyListeners();
+    }
+  }
+
+  void setShowToplanmaGeometrileri(bool value) {
+    if (_showToplanmaGeometrileri != value) {
+      _showToplanmaGeometrileri = value;
+      notifyListeners();
+    }
+  }
+
+  void setShowFaults(bool value) {
+    if (_showFaults != value) {
+      _showFaults = value;
+      notifyListeners();
+    }
+  }
+
+  void setShowEarthquakes(bool value) {
+    if (_showEarthquakes != value) {
+      _showEarthquakes = value;
+      notifyListeners();
+    }
+  }
+
+  LatLng? _mapFocusTarget;
+  LatLng? get mapFocusTarget => _mapFocusTarget;
+
+  void requestMapFocus(LatLng point) {
+    _mapFocusTarget = point;
+    notifyListeners();
+  }
+
+  void clearMapFocus() {
+    _mapFocusTarget = null;
+  }
+
   bool get isDisposed => _disposed;
 
   @override
@@ -142,16 +194,12 @@ class AppStateViewModel extends ChangeNotifier {
 
   Future<void> refreshEarthquakes() async {
     final pt = selectionVM.selectedPoint;
-    if (pt != null) {
-      await earthquakesVM.fetchEarthquakes(point: pt, forceRefresh: true);
-    }
+    await earthquakesVM.fetchEarthquakes(point: pt, forceRefresh: true);
   }
 
   Future<void> clearCacheAndRefresh() async {
     final pt = selectionVM.selectedPoint;
-    if (pt != null) {
-      await earthquakesVM.clearCacheAndRefresh(point: pt);
-    }
+    await earthquakesVM.clearCacheAndRefresh(point: pt);
   }
 
   void _onSelectionChanged() {
@@ -171,11 +219,7 @@ class AppStateViewModel extends ChangeNotifier {
     );
 
     final pt = selectionVM.selectedPoint;
-    if (pt != null) {
-      earthquakesVM.onPointSelected(point: pt);
-    } else {
-      earthquakesVM.clearEarthquakes();
-    }
+    earthquakesVM.onPointSelected(point: pt);
   }
 }
 

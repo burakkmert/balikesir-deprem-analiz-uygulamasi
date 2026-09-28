@@ -505,6 +505,7 @@ void main() {
           localDataRepository: realRepo,
           afadRepository: mockAfad,
         );
+        addTearDown(appState.dispose);
 
         // 1. Normal user MapView (showDevGeometries = false)
         await tester.pumpWidget(
@@ -583,6 +584,7 @@ void main() {
           localDataRepository: realRepo,
           afadRepository: mockAfad,
         );
+        addTearDown(appState.dispose);
         await appState.initialize();
 
         final initialAfadCalls = mockAfad.fetchCallCount;
@@ -637,6 +639,7 @@ void main() {
           localDataRepository: realRepo,
           afadRepository: mockAfad,
         );
+        addTearDown(appState.dispose);
         await appState.initialize();
 
         await tester.pumpWidget(
